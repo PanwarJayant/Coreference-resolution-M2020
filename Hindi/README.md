@@ -1,8 +1,8 @@
-THIS FOLDER CONTAINS OUR COREFERNCE CORPORA AND ALGORITHM FOR COREFERENCE RESOLUTION FOR HINDI.
+# This folder contains our Coreference corpora & Algorithms for Coreference Resolutions for Hindi.
 
-THE ARTICLES FOLDER CONTAINS THE CORPORA OF CHOSEN ARTICLES IN HINDI TO TEST OUR ALGORITHM.
+## The [Articles](./Articles) folder contains the corpora of the chosen articles in Hindi to test our algorithms.
 
-THE FILE coref_Hindi.py CONTAINS THE PYTHON CODE FOR OUR COREFERENCE DETECTION ALGORITHM IN HINDI.
-THIS ALGORITHM WORKS WITH JUST TWO STARTING SIEVES FOR NOW, THE DATE OF WHEN THE NEW SIEVES WERE ADDED ARE IN BRACKETS():
-1. MENTION/MARKABLE DETECTION SIEVE (9TH NOVEMBER)
-2. EXACT STRING MATCH DETECTION SIEVE (9TH NOVEMBER)
+* The file [coref_Hindi py](./coref_Hindi.py) contains the Python code for our Coreference Detection Algorithms in Hindi.
+* This algorithm works with just two starting sieves for now, the date of when the new sieves were added are in brackets:
+1. MENTION/MARKABLE DETECTION SIEVE (9TH November)
+2. EXACT STRING MATCH DETECTION SIEVE (9TH November)
