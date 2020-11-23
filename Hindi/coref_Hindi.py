@@ -52,7 +52,7 @@ print("┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┐")
 print("| Coreference Resolution Program |")
 print("└ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┘")
 
-#MENTION-DETECTION SIEVE
+#MENTION-DETECTION STEP
 print("\n------------MENTIONS FOUND-----------\n")
 
 for i in text:
@@ -123,7 +123,7 @@ for i in text:
 for men in allmention:
     print(men)
 
-# CLUSTERING-SIEVE
+# CLUSTERING-STEP
 print("\n------------CLUSTERS FOUND-----------\n")
 
 cluster=[]
@@ -144,7 +144,7 @@ for i in cluster:
     print(i)
             
 
-# EXACT-MATCH SIEVE      
+# EXACT STRING MATCH STEP      
 print("\n------------EXACT MATCHES FOUND-----------\n")
 
 for i in allmention:
@@ -156,7 +156,7 @@ for i in allmention:
 
 
 
-# RELAXED STRING MATCH SIEVE                
+# RELAXED STRING MATCH STEP                
 print("\n------------RELAXED MATCHES FOUND-----------\n")
 
 for men1 in mention:
@@ -165,7 +165,7 @@ for men1 in mention:
             if men1.find(men2) != -1:
                 print(men1, "and", men2, "have a match")
 
-# PROPER-HEAD-WORD MATCH SIEVE
+# PROPER-HEAD-WORD MATCH STEP
 print("\n------------PROPER HEAD-WORD MATCHES FOUND-----------\n")
 
 properHeadMatches = []
@@ -182,7 +182,7 @@ for i in properHeadMatches:
     print(i[0], "matches with", i[1])
 
 
-# RELAXED HEAD-WORD MATCH SIEVE
+# RELAXED HEAD-WORD MATCH STEP
 print("\n------------RELAXED HEAD-WORD MATCHES FOUND-----------\n")
 
 headMatches = []
@@ -199,7 +199,7 @@ for i in headMatches:
     print(i[0], "matches with", i[1])
 
 
-# PRONOUN SIEVE
+# PRONOUN MATCH STEP
 print("\n------------PRONOUN MATCHES FOUND-----------\n")
 
 for reference in pronRefers:
