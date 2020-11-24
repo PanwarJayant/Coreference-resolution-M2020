@@ -1,0 +1,226 @@
+┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┐
+| Coreference Resolution Program |
+└ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┘
+
+------------MENTIONS FOUND-----------
+
+पढ़ाई
+साथ
+खर्च
+ITI
+ट्रेड
+एडमिशन
+लड़कियों
+रुपये
+प्रतिमाह
+सरकार
+औद्योगिक प्रशिक्षण संस्थान 
+प्रशिक्षण संस्थान 
+संस्थान
+बेटी
+मुहिम
+योजना
+सत्र
+2020-21
+ITI
+ट्रेड
+एडमिशन
+लड़कियों
+रुपये
+प्रतिमाह
+जिले
+ITI
+काउंसिलिंग
+प्रोसेस
+स्टूडेंट
+28 नवंबर 
+नवंबर
+एडमिशन
+आवेदन
+बेटियों
+रोजगार
+प्रदान
+सरकार
+ITI
+लड़कियों
+राशि
+प्रदान
+फैसला
+ITI
+प्राचार्य डॉ. कृष्ण कुमार 
+डॉ. कृष्ण कुमार 
+कृष्ण कुमार 
+कुमार
+सत्र
+2020-21
+ITI
+ट्रेड
+लड़कियों
+रुपये
+प्रतिमाह
+प्रदान
+वर्तमान
+ITI
+प्रक्रिया
+स्टूडेंट
+प्रवेश
+आवेदन
+साथ
+लड़कियों
+पहले
+सुविधाएं
+प्रदान
+ITI
+लड़कियों
+फीस
+लड़कों
+रुपये
+ITI
+लड़कियों
+प्रतिमाह
+तरह
+फीस
+प्रावधान
+लड़कों
+प्रतिमाह
+फीस
+रुपये
+लड़कियों
+पढ़ाई
+रुपये
+प्रतिमाह
+प्रदान
+
+------------CLUSTERS FOUND-----------
+
+{'संस्थान', 'प्रशिक्षण संस्थान ', 'औद्योगिक प्रशिक्षण संस्थान '}
+{'नवंबर', '28 नवंबर '}
+{'प्राचार्य डॉ. कृष्ण कुमार ', 'डॉ. कृष्ण कुमार ', 'कृष्ण कुमार ', 'कुमार'}
+
+------------EXACT MATCHES FOUND-----------
+
+पढ़ाई and पढ़ाई have exact match
+साथ and साथ have exact match
+खर्च and खर्च have exact match
+ITI and ITI have exact match
+ट्रेड and ट्रेड have exact match
+एडमिशन and एडमिशन have exact match
+लड़कियों and लड़कियों have exact match
+रुपये and रुपये have exact match
+प्रतिमाह and प्रतिमाह have exact match
+सरकार and सरकार have exact match
+औद्योगिक प्रशिक्षण संस्थान  and औद्योगिक प्रशिक्षण संस्थान  have exact match
+प्रशिक्षण संस्थान  and प्रशिक्षण संस्थान  have exact match
+संस्थान and संस्थान have exact match
+बेटी and बेटी have exact match
+मुहिम and मुहिम have exact match
+योजना and योजना have exact match
+सत्र and सत्र have exact match
+2020-21 and 2020-21 have exact match
+ITI and ITI have exact match
+ट्रेड and ट्रेड have exact match
+एडमिशन and एडमिशन have exact match
+लड़कियों and लड़कियों have exact match
+रुपये and रुपये have exact match
+प्रतिमाह and प्रतिमाह have exact match
+जिले and जिले have exact match
+ITI and ITI have exact match
+काउंसिलिंग and काउंसिलिंग have exact match
+प्रोसेस and प्रोसेस have exact match
+स्टूडेंट and स्टूडेंट have exact match
+28 नवंबर  and 28 नवंबर  have exact match
+नवंबर and नवंबर have exact match
+एडमिशन and एडमिशन have exact match
+आवेदन and आवेदन have exact match
+बेटियों and बेटियों have exact match
+रोजगार and रोजगार have exact match
+प्रदान and प्रदान have exact match
+सरकार and सरकार have exact match
+ITI and ITI have exact match
+लड़कियों and लड़कियों have exact match
+राशि and राशि have exact match
+प्रदान and प्रदान have exact match
+फैसला and फैसला have exact match
+ITI and ITI have exact match
+प्राचार्य डॉ. कृष्ण कुमार  and प्राचार्य डॉ. कृष्ण कुमार  have exact match
+डॉ. कृष्ण कुमार  and डॉ. कृष्ण कुमार  have exact match
+कृष्ण कुमार  and कृष्ण कुमार  have exact match
+कुमार and कुमार have exact match
+सत्र and सत्र have exact match
+2020-21 and 2020-21 have exact match
+ITI and ITI have exact match
+ट्रेड and ट्रेड have exact match
+लड़कियों and लड़कियों have exact match
+रुपये and रुपये have exact match
+प्रतिमाह and प्रतिमाह have exact match
+प्रदान and प्रदान have exact match
+वर्तमान and वर्तमान have exact match
+ITI and ITI have exact match
+प्रक्रिया and प्रक्रिया have exact match
+स्टूडेंट and स्टूडेंट have exact match
+प्रवेश and प्रवेश have exact match
+आवेदन and आवेदन have exact match
+साथ and साथ have exact match
+लड़कियों and लड़कियों have exact match
+पहले and पहले have exact match
+सुविधाएं and सुविधाएं have exact match
+प्रदान and प्रदान have exact match
+ITI and ITI have exact match
+लड़कियों and लड़कियों have exact match
+फीस and फीस have exact match
+लड़कों and लड़कों have exact match
+रुपये and रुपये have exact match
+ITI and ITI have exact match
+लड़कियों and लड़कियों have exact match
+प्रतिमाह and प्रतिमाह have exact match
+तरह and तरह have exact match
+फीस and फीस have exact match
+प्रावधान and प्रावधान have exact match
+लड़कों and लड़कों have exact match
+प्रतिमाह and प्रतिमाह have exact match
+फीस and फीस have exact match
+रुपये and रुपये have exact match
+लड़कियों and लड़कियों have exact match
+पढ़ाई and पढ़ाई have exact match
+रुपये and रुपये have exact match
+प्रतिमाह and प्रतिमाह have exact match
+प्रदान and प्रदान have exact match
+
+------------RELAXED MATCHES FOUND-----------
+
+औद्योगिक प्रशिक्षण संस्थान  and प्रशिक्षण संस्थान  have a match
+औद्योगिक प्रशिक्षण संस्थान  and संस्थान have a match
+प्रशिक्षण संस्थान  and संस्थान have a match
+28 नवंबर  and नवंबर have a match
+प्राचार्य डॉ. कृष्ण कुमार  and डॉ. कृष्ण कुमार  have a match
+प्राचार्य डॉ. कृष्ण कुमार  and कृष्ण कुमार  have a match
+प्राचार्य डॉ. कृष्ण कुमार  and कुमार have a match
+डॉ. कृष्ण कुमार  and कृष्ण कुमार  have a match
+डॉ. कृष्ण कुमार  and कुमार have a match
+कृष्ण कुमार  and कुमार have a match
+
+------------PROPER HEAD-WORD MATCHES FOUND-----------
+
+ITI matches with ITI
+औद्योगिक प्रशिक्षण संस्थान  matches with प्रशिक्षण संस्थान 
+औद्योगिक प्रशिक्षण संस्थान  matches with संस्थान
+प्रशिक्षण संस्थान  matches with संस्थान
+28 नवंबर  matches with नवंबर
+प्राचार्य डॉ. कृष्ण कुमार  matches with डॉ. कृष्ण कुमार 
+प्राचार्य डॉ. कृष्ण कुमार  matches with कृष्ण कुमार 
+प्राचार्य डॉ. कृष्ण कुमार  matches with कुमार
+डॉ. कृष्ण कुमार  matches with कृष्ण कुमार 
+डॉ. कृष्ण कुमार  matches with कुमार
+कृष्ण कुमार  matches with कुमार
+
+------------RELAXED HEAD-WORD MATCHES FOUND-----------
+
+ITI matches with ITI
+
+------------PRONOUN MATCHES FOUND-----------
+
+Pronoun इसके refers to स्टूडेंट
+Pronoun इसके refers to फीस
+Pronoun किसी refers to प्रतिमाह
+Pronoun अब can refer to ['रुपये', 'फीस']
+Pronoun उन्हें can refer to ['फीस', 'रुपये']

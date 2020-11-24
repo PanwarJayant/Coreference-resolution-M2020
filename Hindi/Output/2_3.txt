@@ -1,0 +1,608 @@
+┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┐
+| Coreference Resolution Program |
+└ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┘
+
+------------MENTIONS FOUND-----------
+
+आज
+खबर
+जेल
+साल
+डिग्रियां
+नौकरी
+लिम्का बुक ऑफ रिकॉर्ड्स 
+बुक ऑफ रिकॉर्ड्स 
+ऑफ रिकॉर्ड्स 
+रिकॉर्ड्स
+नाम
+भानूभाई
+चुनावों
+ऑफिसर
+कार्य
+समय
+उम्र
+साल
+कानून
+उल्लंघन
+आरोप
+साल
+उम्र
+साल
+सजा
+अहमदाबाद
+जेल
+जेल
+बाद
+कैदी
+फ्यूचर
+अहमदाबाद के भानूभाई पटेल 
+भानूभाई पटेल 
+पटेल
+जेल
+पढ़ाई
+सजा
+दौरान
+साल
+डिग्रियां
+नौकरी
+ऑफर
+नौकरी
+बाद
+सालों
+डिग्रियां
+नाम
+लिम्का
+बुक
+ऑफ
+रिकॉर्ड्स,
+एशिया
+बुक
+ऑफ
+रिकॉर्ड,
+यूनिक
+वर्ल्ड
+रिकॉर्ड,
+इंडिया
+बुक
+ऑफ
+रिकॉर्ड,
+यूनिवर्सल
+फोरम और 
+वर्ल्ड रिकॉर्ड इंडिया 
+रिकॉर्ड इंडिया 
+कानून
+उल्लंघन
+साल
+जेल
+भानूभाई पटेल 
+पटेल
+भावनगर की महुवा तहसील 
+महुवा तहसील 
+तहसील
+अहमदाबाद के बीजे मेडिकल कॉलेज 
+बीजे मेडिकल कॉलेज 
+मेडिकल कॉलेज 
+कॉलेज
+एमबीबीएस
+डिग्री
+बाद
+1992
+मेडिकल
+डिग्री
+अमेरिका गए 
+यहीं,
+दोस्त
+वीजा
+अमेरिका
+जॉब
+तनख्वाह
+भानूभाई
+अकाउंट
+ट्रांसफर
+फॉरेन
+एक्सचेंज
+रेग्युलेशन
+एक्ट
+कानून
+उल्लंघन
+आरोप
+तरह
+साल
+उम्र
+साल
+सजा
+अहमदाबाद
+जेल
+जेल
+बाद
+नौकरी
+भानूभाई
+जेल
+बाद
+अंबेडकर यूनिवर्सिटी 
+यूनिवर्सिटी
+ऑफर
+ध्यान
+बात
+जेल
+व्यक्ति
+नौकरी
+डिग्रियों
+जॉब
+ऑफर
+नौकरी
+बाद
+सालों
+डिग्रियां
+तरह
+डिग्रियां
+विषय
+गुजराती,
+हिंदी और 
+किताबें
+जेल
+अनुभव
+किताबों
+भानूभाई कोरोना 
+कोरोना
+महामारी
+लॉकडाउन
+जेल
+अनुभव
+रिकॉर्ड
+सफर
+हिंदी और 
+किताबें
+किताब
+नाम
+सलिया पाछळ 
+पाछळ
+सिद्धि',
+अंग्रेजी
+भानूभाई
+चुनावों
+ऑफिसर
+कार्य
+समय
+उम्र
+साल
+जेल
+कैदियों
+संख्या
+नेशनल क्राइम रिकॉर्ड ब्यूरो 
+क्राइम रिकॉर्ड ब्यूरो 
+रिकॉर्ड ब्यूरो 
+ब्यूरो
+रिपोर्ट
+गुजरात
+जेल
+अनपढ़ों
+कैदियों
+संख्या
+ग्रेजुएट,
+पोस्ट
+कैदी
+गुजरात
+जेलों
+ग्रेजुएट,
+टेक्निकल
+डिग्री-डिप्लोमा,
+पोस्ट
+ग्रेजुएट
+वहीं,
+कैदी
+10वीं
+आरोपी
+हत्या
+अपहरण
+गुनाह
+सजा
+कैदियों
+पढ़ाई
+ओपन यूनिवर्सिटी 
+यूनिवर्सिटी
+सुविधाएं
+गुजरात
+जेलों
+कैदियों
+पढ़ाई
+ओपन यूनिवर्सिटी 
+यूनिवर्सिटी
+क्रम
+चलते, कैदी 
+कैदी
+आगे
+पढ़ाई
+साल
+रूप
+परीक्षाएं
+कैदी
+
+------------CLUSTERS FOUND-----------
+
+{'क्राइम रिकॉर्ड ब्यूरो ', 'रिकॉर्ड,', 'रिकॉर्ड', 'रिकॉर्ड इंडिया ', 'लिम्का', 'बुक', 'ऑफिसर', 'रिकॉर्ड्स,', 'रिकॉर्ड ब्यूरो ', 'लिम्का बुक ऑफ रिकॉर्ड्स ', 'बुक ऑफ रिकॉर्ड्स ', 'ऑफ रिकॉर्ड्स ', 'ऑफ', 'ऑफर', 'वर्ल्ड रिकॉर्ड इंडिया ', 'रिकॉर्ड्स', 'नेशनल क्राइम रिकॉर्ड ब्यूरो ', 'ब्यूरो'}
+{'अहमदाबाद के भानूभाई पटेल ', 'मेडिकल कॉलेज ', 'बीजे मेडिकल कॉलेज ', 'पटेल', 'भानूभाई पटेल ', 'कॉलेज', 'बाद', 'अहमदाबाद', 'अहमदाबाद के बीजे मेडिकल कॉलेज ', 'भानूभाई', 'मेडिकल', 'भानूभाई कोरोना ', 'कोरोना'}
+{'अहमदाबाद के भानूभाई पटेल ', 'भानूभाई'}
+{'साल', 'सालों'}
+{'इंडिया', 'वर्ल्ड', 'वर्ल्ड रिकॉर्ड इंडिया ', 'रिकॉर्ड इंडिया '}
+{'महुवा तहसील ', 'भावनगर की महुवा तहसील ', 'तहसील'}
+{'अमेरिका', 'अमेरिका गए '}
+{'ट्रांसफर', 'सफर'}
+{'ओपन यूनिवर्सिटी ', 'अंबेडकर यूनिवर्सिटी ', 'यूनिवर्सिटी'}
+{'गुजरात', 'गुजराती,'}
+{'किताबें', 'किताबों', 'किताब'}
+{'सलिया पाछळ ', 'पाछळ'}
+{'ग्रेजुएट,', 'ग्रेजुएट'}
+{'जेल', 'जेलों'}
+{'डिग्री-डिप्लोमा,', 'डिग्री'}
+{'आरोपी', 'आरोप'}
+{'चलते, कैदी ', 'कैदी'}
+
+------------EXACT MATCHES FOUND-----------
+
+आज and आज have exact match
+खबर and खबर have exact match
+जेल and जेल have exact match
+साल and साल have exact match
+डिग्रियां and डिग्रियां have exact match
+नौकरी and नौकरी have exact match
+लिम्का बुक ऑफ रिकॉर्ड्स  and लिम्का बुक ऑफ रिकॉर्ड्स  have exact match
+बुक ऑफ रिकॉर्ड्स  and बुक ऑफ रिकॉर्ड्स  have exact match
+ऑफ रिकॉर्ड्स  and ऑफ रिकॉर्ड्स  have exact match
+रिकॉर्ड्स and रिकॉर्ड्स have exact match
+नाम and नाम have exact match
+भानूभाई and भानूभाई have exact match
+चुनावों and चुनावों have exact match
+ऑफिसर and ऑफिसर have exact match
+कार्य and कार्य have exact match
+समय and समय have exact match
+उम्र and उम्र have exact match
+साल and साल have exact match
+कानून and कानून have exact match
+उल्लंघन and उल्लंघन have exact match
+आरोप and आरोप have exact match
+साल and साल have exact match
+उम्र and उम्र have exact match
+साल and साल have exact match
+सजा and सजा have exact match
+अहमदाबाद and अहमदाबाद have exact match
+जेल and जेल have exact match
+जेल and जेल have exact match
+बाद and बाद have exact match
+कैदी and कैदी have exact match
+फ्यूचर and फ्यूचर have exact match
+अहमदाबाद के भानूभाई पटेल  and अहमदाबाद के भानूभाई पटेल  have exact match
+भानूभाई पटेल  and भानूभाई पटेल  have exact match
+पटेल and पटेल have exact match
+जेल and जेल have exact match
+पढ़ाई and पढ़ाई have exact match
+सजा and सजा have exact match
+दौरान and दौरान have exact match
+साल and साल have exact match
+डिग्रियां and डिग्रियां have exact match
+नौकरी and नौकरी have exact match
+ऑफर and ऑफर have exact match
+नौकरी and नौकरी have exact match
+बाद and बाद have exact match
+सालों and सालों have exact match
+डिग्रियां and डिग्रियां have exact match
+नाम and नाम have exact match
+लिम्का and लिम्का have exact match
+बुक and बुक have exact match
+ऑफ and ऑफ have exact match
+रिकॉर्ड्स, and रिकॉर्ड्स, have exact match
+एशिया and एशिया have exact match
+बुक and बुक have exact match
+ऑफ and ऑफ have exact match
+रिकॉर्ड, and रिकॉर्ड, have exact match
+यूनिक and यूनिक have exact match
+वर्ल्ड and वर्ल्ड have exact match
+रिकॉर्ड, and रिकॉर्ड, have exact match
+इंडिया and इंडिया have exact match
+बुक and बुक have exact match
+ऑफ and ऑफ have exact match
+रिकॉर्ड, and रिकॉर्ड, have exact match
+यूनिवर्सल and यूनिवर्सल have exact match
+फोरम और  and फोरम और  have exact match
+वर्ल्ड रिकॉर्ड इंडिया  and वर्ल्ड रिकॉर्ड इंडिया  have exact match
+रिकॉर्ड इंडिया  and रिकॉर्ड इंडिया  have exact match
+कानून and कानून have exact match
+उल्लंघन and उल्लंघन have exact match
+साल and साल have exact match
+जेल and जेल have exact match
+भानूभाई पटेल  and भानूभाई पटेल  have exact match
+पटेल and पटेल have exact match
+भावनगर की महुवा तहसील  and भावनगर की महुवा तहसील  have exact match
+महुवा तहसील  and महुवा तहसील  have exact match
+तहसील and तहसील have exact match
+अहमदाबाद के बीजे मेडिकल कॉलेज  and अहमदाबाद के बीजे मेडिकल कॉलेज  have exact match
+बीजे मेडिकल कॉलेज  and बीजे मेडिकल कॉलेज  have exact match
+मेडिकल कॉलेज  and मेडिकल कॉलेज  have exact match
+कॉलेज and कॉलेज have exact match
+एमबीबीएस and एमबीबीएस have exact match
+डिग्री and डिग्री have exact match
+बाद and बाद have exact match
+1992 and 1992 have exact match
+मेडिकल and मेडिकल have exact match
+डिग्री and डिग्री have exact match
+अमेरिका गए  and अमेरिका गए  have exact match
+यहीं, and यहीं, have exact match
+दोस्त and दोस्त have exact match
+वीजा and वीजा have exact match
+अमेरिका and अमेरिका have exact match
+जॉब and जॉब have exact match
+तनख्वाह and तनख्वाह have exact match
+भानूभाई and भानूभाई have exact match
+अकाउंट and अकाउंट have exact match
+ट्रांसफर and ट्रांसफर have exact match
+फॉरेन and फॉरेन have exact match
+एक्सचेंज and एक्सचेंज have exact match
+रेग्युलेशन and रेग्युलेशन have exact match
+एक्ट and एक्ट have exact match
+कानून and कानून have exact match
+उल्लंघन and उल्लंघन have exact match
+आरोप and आरोप have exact match
+तरह and तरह have exact match
+साल and साल have exact match
+उम्र and उम्र have exact match
+साल and साल have exact match
+सजा and सजा have exact match
+अहमदाबाद and अहमदाबाद have exact match
+जेल and जेल have exact match
+जेल and जेल have exact match
+बाद and बाद have exact match
+नौकरी and नौकरी have exact match
+भानूभाई and भानूभाई have exact match
+जेल and जेल have exact match
+बाद and बाद have exact match
+अंबेडकर यूनिवर्सिटी  and अंबेडकर यूनिवर्सिटी  have exact match
+यूनिवर्सिटी and यूनिवर्सिटी have exact match
+ऑफर and ऑफर have exact match
+ध्यान and ध्यान have exact match
+बात and बात have exact match
+जेल and जेल have exact match
+व्यक्ति and व्यक्ति have exact match
+नौकरी and नौकरी have exact match
+डिग्रियों and डिग्रियों have exact match
+जॉब and जॉब have exact match
+ऑफर and ऑफर have exact match
+नौकरी and नौकरी have exact match
+बाद and बाद have exact match
+सालों and सालों have exact match
+डिग्रियां and डिग्रियां have exact match
+तरह and तरह have exact match
+डिग्रियां and डिग्रियां have exact match
+विषय and विषय have exact match
+गुजराती, and गुजराती, have exact match
+हिंदी और  and हिंदी और  have exact match
+किताबें and किताबें have exact match
+जेल and जेल have exact match
+अनुभव and अनुभव have exact match
+किताबों and किताबों have exact match
+भानूभाई कोरोना  and भानूभाई कोरोना  have exact match
+कोरोना and कोरोना have exact match
+महामारी and महामारी have exact match
+लॉकडाउन and लॉकडाउन have exact match
+जेल and जेल have exact match
+अनुभव and अनुभव have exact match
+रिकॉर्ड and रिकॉर्ड have exact match
+सफर and सफर have exact match
+हिंदी और  and हिंदी और  have exact match
+किताबें and किताबें have exact match
+किताब and किताब have exact match
+नाम and नाम have exact match
+सलिया पाछळ  and सलिया पाछळ  have exact match
+पाछळ and पाछळ have exact match
+सिद्धि', and सिद्धि', have exact match
+अंग्रेजी and अंग्रेजी have exact match
+भानूभाई and भानूभाई have exact match
+चुनावों and चुनावों have exact match
+ऑफिसर and ऑफिसर have exact match
+कार्य and कार्य have exact match
+समय and समय have exact match
+उम्र and उम्र have exact match
+साल and साल have exact match
+जेल and जेल have exact match
+कैदियों and कैदियों have exact match
+संख्या and संख्या have exact match
+नेशनल क्राइम रिकॉर्ड ब्यूरो  and नेशनल क्राइम रिकॉर्ड ब्यूरो  have exact match
+क्राइम रिकॉर्ड ब्यूरो  and क्राइम रिकॉर्ड ब्यूरो  have exact match
+रिकॉर्ड ब्यूरो  and रिकॉर्ड ब्यूरो  have exact match
+ब्यूरो and ब्यूरो have exact match
+रिपोर्ट and रिपोर्ट have exact match
+गुजरात and गुजरात have exact match
+जेल and जेल have exact match
+अनपढ़ों and अनपढ़ों have exact match
+कैदियों and कैदियों have exact match
+संख्या and संख्या have exact match
+ग्रेजुएट, and ग्रेजुएट, have exact match
+पोस्ट and पोस्ट have exact match
+कैदी and कैदी have exact match
+गुजरात and गुजरात have exact match
+जेलों and जेलों have exact match
+ग्रेजुएट, and ग्रेजुएट, have exact match
+टेक्निकल and टेक्निकल have exact match
+डिग्री-डिप्लोमा, and डिग्री-डिप्लोमा, have exact match
+पोस्ट and पोस्ट have exact match
+ग्रेजुएट and ग्रेजुएट have exact match
+वहीं, and वहीं, have exact match
+कैदी and कैदी have exact match
+10वीं and 10वीं have exact match
+आरोपी and आरोपी have exact match
+हत्या and हत्या have exact match
+अपहरण and अपहरण have exact match
+गुनाह and गुनाह have exact match
+सजा and सजा have exact match
+कैदियों and कैदियों have exact match
+पढ़ाई and पढ़ाई have exact match
+ओपन यूनिवर्सिटी  and ओपन यूनिवर्सिटी  have exact match
+यूनिवर्सिटी and यूनिवर्सिटी have exact match
+सुविधाएं and सुविधाएं have exact match
+गुजरात and गुजरात have exact match
+जेलों and जेलों have exact match
+कैदियों and कैदियों have exact match
+पढ़ाई and पढ़ाई have exact match
+ओपन यूनिवर्सिटी  and ओपन यूनिवर्सिटी  have exact match
+यूनिवर्सिटी and यूनिवर्सिटी have exact match
+क्रम and क्रम have exact match
+चलते, कैदी  and चलते, कैदी  have exact match
+कैदी and कैदी have exact match
+आगे and आगे have exact match
+पढ़ाई and पढ़ाई have exact match
+साल and साल have exact match
+रूप and रूप have exact match
+परीक्षाएं and परीक्षाएं have exact match
+कैदी and कैदी have exact match
+
+------------RELAXED MATCHES FOUND-----------
+
+लिम्का बुक ऑफ रिकॉर्ड्स  and बुक ऑफ रिकॉर्ड्स  have a match
+लिम्का बुक ऑफ रिकॉर्ड्स  and ऑफ रिकॉर्ड्स  have a match
+लिम्का बुक ऑफ रिकॉर्ड्स  and रिकॉर्ड्स have a match
+लिम्का बुक ऑफ रिकॉर्ड्स  and लिम्का have a match
+लिम्का बुक ऑफ रिकॉर्ड्स  and बुक have a match
+लिम्का बुक ऑफ रिकॉर्ड्स  and ऑफ have a match
+लिम्का बुक ऑफ रिकॉर्ड्स  and रिकॉर्ड have a match
+बुक ऑफ रिकॉर्ड्स  and ऑफ रिकॉर्ड्स  have a match
+बुक ऑफ रिकॉर्ड्स  and रिकॉर्ड्स have a match
+बुक ऑफ रिकॉर्ड्स  and बुक have a match
+बुक ऑफ रिकॉर्ड्स  and ऑफ have a match
+बुक ऑफ रिकॉर्ड्स  and रिकॉर्ड have a match
+ऑफ रिकॉर्ड्स  and रिकॉर्ड्स have a match
+ऑफ रिकॉर्ड्स  and ऑफ have a match
+ऑफ रिकॉर्ड्स  and रिकॉर्ड have a match
+रिकॉर्ड्स and रिकॉर्ड have a match
+ऑफिसर and ऑफ have a match
+अहमदाबाद and बाद have a match
+अहमदाबाद के भानूभाई पटेल  and भानूभाई have a match
+अहमदाबाद के भानूभाई पटेल  and अहमदाबाद have a match
+अहमदाबाद के भानूभाई पटेल  and बाद have a match
+अहमदाबाद के भानूभाई पटेल  and भानूभाई पटेल  have a match
+अहमदाबाद के भानूभाई पटेल  and पटेल have a match
+अहमदाबाद के भानूभाई पटेल  and भानूभाई पटेल  have a match
+भानूभाई पटेल  and भानूभाई have a match
+भानूभाई पटेल  and पटेल have a match
+ऑफर and ऑफ have a match
+सालों and साल have a match
+रिकॉर्ड्स, and रिकॉर्ड्स have a match
+रिकॉर्ड्स, and रिकॉर्ड have a match
+रिकॉर्ड, and रिकॉर्ड have a match
+वर्ल्ड रिकॉर्ड इंडिया  and वर्ल्ड have a match
+वर्ल्ड रिकॉर्ड इंडिया  and इंडिया have a match
+वर्ल्ड रिकॉर्ड इंडिया  and रिकॉर्ड इंडिया  have a match
+वर्ल्ड रिकॉर्ड इंडिया  and रिकॉर्ड have a match
+रिकॉर्ड इंडिया  and इंडिया have a match
+रिकॉर्ड इंडिया  and रिकॉर्ड have a match
+भानूभाई पटेल  and भानूभाई have a match
+भानूभाई पटेल  and पटेल have a match
+भावनगर की महुवा तहसील  and महुवा तहसील  have a match
+भावनगर की महुवा तहसील  and तहसील have a match
+महुवा तहसील  and तहसील have a match
+अहमदाबाद के बीजे मेडिकल कॉलेज  and अहमदाबाद have a match
+अहमदाबाद के बीजे मेडिकल कॉलेज  and बाद have a match
+अहमदाबाद के बीजे मेडिकल कॉलेज  and बीजे मेडिकल कॉलेज  have a match
+अहमदाबाद के बीजे मेडिकल कॉलेज  and मेडिकल कॉलेज  have a match
+अहमदाबाद के बीजे मेडिकल कॉलेज  and कॉलेज have a match
+अहमदाबाद के बीजे मेडिकल कॉलेज  and मेडिकल have a match
+बीजे मेडिकल कॉलेज  and मेडिकल कॉलेज  have a match
+बीजे मेडिकल कॉलेज  and कॉलेज have a match
+बीजे मेडिकल कॉलेज  and मेडिकल have a match
+मेडिकल कॉलेज  and कॉलेज have a match
+मेडिकल कॉलेज  and मेडिकल have a match
+अमेरिका गए  and अमेरिका have a match
+ट्रांसफर and सफर have a match
+अंबेडकर यूनिवर्सिटी  and यूनिवर्सिटी have a match
+गुजराती, and गुजरात have a match
+किताबें and किताब have a match
+किताबों and किताब have a match
+भानूभाई कोरोना  and भानूभाई have a match
+भानूभाई कोरोना  and कोरोना have a match
+सलिया पाछळ  and पाछळ have a match
+नेशनल क्राइम रिकॉर्ड ब्यूरो  and रिकॉर्ड have a match
+नेशनल क्राइम रिकॉर्ड ब्यूरो  and क्राइम रिकॉर्ड ब्यूरो  have a match
+नेशनल क्राइम रिकॉर्ड ब्यूरो  and रिकॉर्ड ब्यूरो  have a match
+नेशनल क्राइम रिकॉर्ड ब्यूरो  and ब्यूरो have a match
+क्राइम रिकॉर्ड ब्यूरो  and रिकॉर्ड have a match
+क्राइम रिकॉर्ड ब्यूरो  and रिकॉर्ड ब्यूरो  have a match
+क्राइम रिकॉर्ड ब्यूरो  and ब्यूरो have a match
+रिकॉर्ड ब्यूरो  and रिकॉर्ड have a match
+रिकॉर्ड ब्यूरो  and ब्यूरो have a match
+ग्रेजुएट, and ग्रेजुएट have a match
+जेलों and जेल have a match
+डिग्री-डिप्लोमा, and डिग्री have a match
+आरोपी and आरोप have a match
+ओपन यूनिवर्सिटी  and यूनिवर्सिटी have a match
+ओपन यूनिवर्सिटी  and यूनिवर्सिटी have a match
+चलते, कैदी  and कैदी have a match
+
+------------PROPER HEAD-WORD MATCHES FOUND-----------
+
+लिम्का बुक ऑफ रिकॉर्ड्स  matches with बुक ऑफ रिकॉर्ड्स 
+लिम्का बुक ऑफ रिकॉर्ड्स  matches with ऑफ रिकॉर्ड्स 
+लिम्का बुक ऑफ रिकॉर्ड्स  matches with रिकॉर्ड्स
+बुक ऑफ रिकॉर्ड्स  matches with ऑफ रिकॉर्ड्स 
+बुक ऑफ रिकॉर्ड्स  matches with रिकॉर्ड्स
+ऑफ रिकॉर्ड्स  matches with रिकॉर्ड्स
+अहमदाबाद के भानूभाई पटेल  matches with भानूभाई पटेल 
+अहमदाबाद के भानूभाई पटेल  matches with पटेल
+भानूभाई पटेल  matches with पटेल
+वर्ल्ड रिकॉर्ड इंडिया  matches with इंडिया
+वर्ल्ड रिकॉर्ड इंडिया  matches with रिकॉर्ड इंडिया 
+रिकॉर्ड इंडिया  matches with इंडिया
+अहमदाबाद के बीजे मेडिकल कॉलेज  matches with बीजे मेडिकल कॉलेज 
+अहमदाबाद के बीजे मेडिकल कॉलेज  matches with मेडिकल कॉलेज 
+अहमदाबाद के बीजे मेडिकल कॉलेज  matches with कॉलेज
+बीजे मेडिकल कॉलेज  matches with मेडिकल कॉलेज 
+बीजे मेडिकल कॉलेज  matches with कॉलेज
+मेडिकल कॉलेज  matches with कॉलेज
+अंबेडकर यूनिवर्सिटी  matches with यूनिवर्सिटी
+अंबेडकर यूनिवर्सिटी  matches with ओपन यूनिवर्सिटी 
+यूनिवर्सिटी matches with ओपन यूनिवर्सिटी 
+भानूभाई कोरोना  matches with कोरोना
+सलिया पाछळ  matches with पाछळ
+नेशनल क्राइम रिकॉर्ड ब्यूरो  matches with क्राइम रिकॉर्ड ब्यूरो 
+नेशनल क्राइम रिकॉर्ड ब्यूरो  matches with रिकॉर्ड ब्यूरो 
+नेशनल क्राइम रिकॉर्ड ब्यूरो  matches with ब्यूरो
+क्राइम रिकॉर्ड ब्यूरो  matches with रिकॉर्ड ब्यूरो 
+क्राइम रिकॉर्ड ब्यूरो  matches with ब्यूरो
+रिकॉर्ड ब्यूरो  matches with ब्यूरो
+
+------------RELAXED HEAD-WORD MATCHES FOUND-----------
+
+कैदी matches with चलते, कैदी 
+फोरम और  matches with हिंदी और 
+भावनगर की महुवा तहसील  matches with महुवा तहसील 
+भावनगर की महुवा तहसील  matches with तहसील
+महुवा तहसील  matches with तहसील
+
+------------PRONOUN MATCHES FOUND-----------
+
+Pronoun उनकी refers to भानूभाई
+Pronoun वे can refer to ['साल', 'उम्र', 'भानूभाई']
+Pronoun उन्हें can refer to ['भानूभाई', 'उम्र', 'साल']
+Pronoun वहां refers to कैदी
+Pronoun अपना refers to कैदी
+Pronoun उन्हें can refer to ['पढ़ाई', 'पटेल', 'भानूभाई पटेल ', 'अहमदाबाद के भानूभाई पटेल ', 'कैदी']
+Pronoun उन्होंने refers to ऑफर
+Pronoun वे refers to ऑफर
+Pronoun अपना can refer to ['सालों', 'नौकरी']
+Pronoun उनका refers to यहीं,
+Pronoun अपनी can refer to ['दोस्त', 'यहीं,']
+Pronoun इसके can refer to ['यहीं,', 'दोस्त']
+Pronoun उन can refer to ['दोस्त', 'यहीं,']
+Pronoun उन्हें refers to उल्लंघन
+Pronoun मुझे refers to भानूभाई
+Pronoun यहां refers to भानूभाई
+Pronoun ये refers to बात
+Pronoun मेरी can refer to ['नौकरी', 'बात']
+Pronoun मैंने can refer to ['ऑफर', 'बात', 'नौकरी']
+Pronoun अब can refer to ['नौकरी', 'बात', 'ऑफर']
+Pronoun मैंने refers to डिग्रियां
+Pronoun अपने can refer to ['किताबें', 'गुजराती,', 'डिग्रियां']
+Pronoun अपने can refer to ['कोरोना', 'भानूभाई कोरोना ']
+Pronoun उनकी refers to भानूभाई
+Pronoun वे can refer to ['साल', 'उम्र']
+Pronoun इनमें can refer to ['संख्या', 'अनपढ़ों']
+Pronoun जिसके can refer to ['यूनिवर्सिटी', 'ओपन यूनिवर्सिटी ']
+Pronoun इनकी can refer to ['कैदी', 'चलते, कैदी ']
+Pronoun इसमें can refer to ['कैदी', 'परीक्षाएं']

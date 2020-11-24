@@ -1,0 +1,540 @@
+┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┐
+| Coreference Resolution Program |
+└ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┘
+
+------------MENTIONS FOUND-----------
+
+जम्मू कश्मीर 
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन 
+पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन 
+एलायंस फॉर गुपकर डिक्लरेशन 
+फॉर गुपकर डिक्लरेशन 
+गुपकर डिक्लरेशन 
+डिक्लरेशन लड़ेगी 
+चुनाव;
+भाजपा
+लोग
+जम्मू-कश्मीर
+बार
+हलचलें
+28 नवंबर 
+नवंबर
+शुरू
+विकास परिषद 
+परिषद
+चुनावों
+पीपुल्स
+एलायंस
+फॉर
+गुपकार
+डिक्लरेशन
+उम्मीदवार
+एलायंस
+शनिवार
+ऐलान
+अगुवाई नेशनल कॉन्फ्रेंस के अध्यक्ष फारूख अब्दुल्ला कर 
+नेशनल कॉन्फ्रेंस 
+कॉन्फ्रेंस
+अध्यक्ष फारूख अब्दुल्ला 
+फारूख अब्दुल्ला 
+अब्दुल्ला कर 
+केंद्र सरकार 
+सरकार
+फैसले
+जम्मू कश्मीर 
+कश्मीर
+लोगों
+नाराजगी
+एलायंस के सज्जाद लोन 
+सज्जाद लोन 
+लोन
+कहा,
+5 अगस्त 2019 
+अगस्त 2019 
+2019
+फैसले
+जम्मू कश्मीर 
+कश्मीर
+आवाम
+लोग
+गुस्से
+पीपुल्स एलायंस फॉर गुपकार डिक्लेरेशन 
+एलायंस फॉर गुपकार डिक्लेरेशन 
+फॉर गुपकार डिक्लेरेशन 
+गुपकार डिक्लेरेशन 
+डिक्लेरेशन
+गठन
+बाद
+लोगों
+लोगों
+मुलाकात
+सिविल सोसाइटी 
+सोसाइटी
+पार्टियों,
+गुर्जर-बकरवाल समुदायों, एससी-एसटी 
+समुदायों, एससी-एसटी 
+एससी-एसटी
+नेतृत्व
+मुलाकात
+DDC और 
+बात
+भाजपा और 
+सरकार
+जम्मू कश्मीर 
+कश्मीर
+दर्जा
+लड़ाई
+पार्टियां
+चुनाव
+नेशनल
+कॉन्फ्रंस,
+आवामी नेशनल कॉन्फ्रेंस 
+नेशनल कॉन्फ्रेंस 
+कॉन्फ्रेंस
+समर्थन
+पार्टियां
+DDC और 
+चुनाव
+पार्टी
+उम्मीदवार
+मैदान
+ओर
+कांग्रेस
+चुनाव
+फैसला
+कांग्रेस प्रदेश 
+प्रदेश अध्यक्ष 
+अध्यक्ष जीए मीर 
+जीए मीर 
+मीर
+कहा,
+जम्मू-कश्मीर
+जनता
+भाजपा
+नीतियों
+लड़ाई
+चुनाव
+उम्मीदवार
+भाजपा
+सबक
+भाजपा
+प्रत्याशी
+मैदान
+गुपकार
+गप्पा-कार
+भारतीय जनता पार्टी 
+जनता पार्टी 
+पार्टी
+चुनाव
+फैसला
+पार्टी
+महासचिव तरुण चुग 
+तरुण चुग 
+चुग
+सीटों
+प्रत्याशी
+चुग
+चुनाव
+जम्मू-कश्मीर
+लोकतंत्र
+मजबूती
+लोग
+प्रतिनिधि
+आगे
+समझौते
+करार
+गुपकार
+मुंगेरी लाल 
+लाल
+सपने
+सच
+अब्दुल्ला एंड संस 
+एंड संस 
+संस और 
+मुफ्ती एंड संस 
+एंड संस 
+जम्मू-कश्मीर
+संसाधनों
+
+------------CLUSTERS FOUND-----------
+
+{'कश्मीर', 'मीर', 'कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन ', 'जीए मीर ', 'अध्यक्ष जीए मीर ', 'जम्मू कश्मीर ', 'जम्मू-कश्मीर'}
+{'डिक्लरेशन', 'एलायंस फॉर गुपकार डिक्लेरेशन ', 'पीपुल्स एलायंस फॉर गुपकार डिक्लेरेशन ', 'गुपकार डिक्लेरेशन ', 'डिक्लेरेशन', 'डिक्लरेशन लड़ेगी ', 'लोन', 'गुपकार', 'फॉर गुपकर डिक्लरेशन ', 'एलायंस', 'कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन ', 'एलायंस के सज्जाद लोन ', 'पीपुल्स', 'एलायंस फॉर गुपकर डिक्लरेशन ', 'सज्जाद लोन ', 'फॉर गुपकार डिक्लेरेशन ', 'फॉर', 'पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन ', 'गुपकर डिक्लरेशन '}
+{'चुनाव;', 'चुनाव', 'चुनावों'}
+{'28 नवंबर ', 'नवंबर'}
+{'विकास परिषद ', 'परिषद'}
+{'अध्यक्ष फारूख अब्दुल्ला ', 'नेशनल', 'नेशनल कॉन्फ्रेंस ', 'आवामी नेशनल कॉन्फ्रेंस ', 'अब्दुल्ला कर ', 'कॉन्फ्रेंस', 'फारूख अब्दुल्ला ', 'अगुवाई नेशनल कॉन्फ्रेंस के अध्यक्ष फारूख अब्दुल्ला कर ', 'आवाम'}
+{'सरकार', 'केंद्र सरकार '}
+{'लोगों', 'लोग'}
+{'5 अगस्त 2019 ', 'अगस्त 2019 ', '2019'}
+{'सिविल सोसाइटी ', 'सोसाइटी'}
+{'एससी-एसटी', 'गुर्जर-बकरवाल समुदायों, एससी-एसटी ', 'समुदायों, एससी-एसटी '}
+{'भाजपा और ', 'भाजपा'}
+{'कांग्रेस', 'कांग्रेस प्रदेश '}
+{'जीए मीर ', 'अध्यक्ष जीए मीर '}
+{'जनता पार्टी ', 'भारतीय जनता पार्टी ', 'पार्टी', 'जनता'}
+{'तरुण चुग ', 'चुग', 'महासचिव तरुण चुग ', 'सच'}
+{'लाल', 'मुंगेरी लाल '}
+{'एंड संस ', 'मुफ्ती एंड संस ', 'अब्दुल्ला एंड संस '}
+
+------------EXACT MATCHES FOUND-----------
+
+जम्मू कश्मीर  and जम्मू कश्मीर  have exact match
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  have exact match
+पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  have exact match
+एलायंस फॉर गुपकर डिक्लरेशन  and एलायंस फॉर गुपकर डिक्लरेशन  have exact match
+फॉर गुपकर डिक्लरेशन  and फॉर गुपकर डिक्लरेशन  have exact match
+गुपकर डिक्लरेशन  and गुपकर डिक्लरेशन  have exact match
+डिक्लरेशन लड़ेगी  and डिक्लरेशन लड़ेगी  have exact match
+चुनाव; and चुनाव; have exact match
+भाजपा and भाजपा have exact match
+लोग and लोग have exact match
+जम्मू-कश्मीर and जम्मू-कश्मीर have exact match
+बार and बार have exact match
+हलचलें and हलचलें have exact match
+28 नवंबर  and 28 नवंबर  have exact match
+नवंबर and नवंबर have exact match
+शुरू and शुरू have exact match
+विकास परिषद  and विकास परिषद  have exact match
+परिषद and परिषद have exact match
+चुनावों and चुनावों have exact match
+पीपुल्स and पीपुल्स have exact match
+एलायंस and एलायंस have exact match
+फॉर and फॉर have exact match
+गुपकार and गुपकार have exact match
+डिक्लरेशन and डिक्लरेशन have exact match
+उम्मीदवार and उम्मीदवार have exact match
+एलायंस and एलायंस have exact match
+शनिवार and शनिवार have exact match
+ऐलान and ऐलान have exact match
+अगुवाई नेशनल कॉन्फ्रेंस के अध्यक्ष फारूख अब्दुल्ला कर  and अगुवाई नेशनल कॉन्फ्रेंस के अध्यक्ष फारूख अब्दुल्ला कर  have exact match
+नेशनल कॉन्फ्रेंस  and नेशनल कॉन्फ्रेंस  have exact match
+कॉन्फ्रेंस and कॉन्फ्रेंस have exact match
+अध्यक्ष फारूख अब्दुल्ला  and अध्यक्ष फारूख अब्दुल्ला  have exact match
+फारूख अब्दुल्ला  and फारूख अब्दुल्ला  have exact match
+अब्दुल्ला कर  and अब्दुल्ला कर  have exact match
+केंद्र सरकार  and केंद्र सरकार  have exact match
+सरकार and सरकार have exact match
+फैसले and फैसले have exact match
+जम्मू कश्मीर  and जम्मू कश्मीर  have exact match
+कश्मीर and कश्मीर have exact match
+लोगों and लोगों have exact match
+नाराजगी and नाराजगी have exact match
+एलायंस के सज्जाद लोन  and एलायंस के सज्जाद लोन  have exact match
+सज्जाद लोन  and सज्जाद लोन  have exact match
+लोन and लोन have exact match
+कहा, and कहा, have exact match
+5 अगस्त 2019  and 5 अगस्त 2019  have exact match
+अगस्त 2019  and अगस्त 2019  have exact match
+2019 and 2019 have exact match
+फैसले and फैसले have exact match
+जम्मू कश्मीर  and जम्मू कश्मीर  have exact match
+कश्मीर and कश्मीर have exact match
+आवाम and आवाम have exact match
+लोग and लोग have exact match
+गुस्से and गुस्से have exact match
+पीपुल्स एलायंस फॉर गुपकार डिक्लेरेशन  and पीपुल्स एलायंस फॉर गुपकार डिक्लेरेशन  have exact match
+एलायंस फॉर गुपकार डिक्लेरेशन  and एलायंस फॉर गुपकार डिक्लेरेशन  have exact match
+फॉर गुपकार डिक्लेरेशन  and फॉर गुपकार डिक्लेरेशन  have exact match
+गुपकार डिक्लेरेशन  and गुपकार डिक्लेरेशन  have exact match
+डिक्लेरेशन and डिक्लेरेशन have exact match
+गठन and गठन have exact match
+बाद and बाद have exact match
+लोगों and लोगों have exact match
+लोगों and लोगों have exact match
+मुलाकात and मुलाकात have exact match
+सिविल सोसाइटी  and सिविल सोसाइटी  have exact match
+सोसाइटी and सोसाइटी have exact match
+पार्टियों, and पार्टियों, have exact match
+गुर्जर-बकरवाल समुदायों, एससी-एसटी  and गुर्जर-बकरवाल समुदायों, एससी-एसटी  have exact match
+समुदायों, एससी-एसटी  and समुदायों, एससी-एसटी  have exact match
+एससी-एसटी and एससी-एसटी have exact match
+नेतृत्व and नेतृत्व have exact match
+मुलाकात and मुलाकात have exact match
+DDC और  and DDC और  have exact match
+बात and बात have exact match
+भाजपा और  and भाजपा और  have exact match
+सरकार and सरकार have exact match
+जम्मू कश्मीर  and जम्मू कश्मीर  have exact match
+कश्मीर and कश्मीर have exact match
+दर्जा and दर्जा have exact match
+लड़ाई and लड़ाई have exact match
+पार्टियां and पार्टियां have exact match
+चुनाव and चुनाव have exact match
+नेशनल and नेशनल have exact match
+कॉन्फ्रंस, and कॉन्फ्रंस, have exact match
+आवामी नेशनल कॉन्फ्रेंस  and आवामी नेशनल कॉन्फ्रेंस  have exact match
+नेशनल कॉन्फ्रेंस  and नेशनल कॉन्फ्रेंस  have exact match
+कॉन्फ्रेंस and कॉन्फ्रेंस have exact match
+समर्थन and समर्थन have exact match
+पार्टियां and पार्टियां have exact match
+DDC और  and DDC और  have exact match
+चुनाव and चुनाव have exact match
+पार्टी and पार्टी have exact match
+उम्मीदवार and उम्मीदवार have exact match
+मैदान and मैदान have exact match
+ओर and ओर have exact match
+कांग्रेस and कांग्रेस have exact match
+चुनाव and चुनाव have exact match
+फैसला and फैसला have exact match
+कांग्रेस प्रदेश  and कांग्रेस प्रदेश  have exact match
+प्रदेश अध्यक्ष  and प्रदेश अध्यक्ष  have exact match
+अध्यक्ष जीए मीर  and अध्यक्ष जीए मीर  have exact match
+जीए मीर  and जीए मीर  have exact match
+मीर and मीर have exact match
+कहा, and कहा, have exact match
+जम्मू-कश्मीर and जम्मू-कश्मीर have exact match
+जनता and जनता have exact match
+भाजपा and भाजपा have exact match
+नीतियों and नीतियों have exact match
+लड़ाई and लड़ाई have exact match
+चुनाव and चुनाव have exact match
+उम्मीदवार and उम्मीदवार have exact match
+भाजपा and भाजपा have exact match
+सबक and सबक have exact match
+भाजपा and भाजपा have exact match
+प्रत्याशी and प्रत्याशी have exact match
+मैदान and मैदान have exact match
+गुपकार and गुपकार have exact match
+गप्पा-कार and गप्पा-कार have exact match
+भारतीय जनता पार्टी  and भारतीय जनता पार्टी  have exact match
+जनता पार्टी  and जनता पार्टी  have exact match
+पार्टी and पार्टी have exact match
+चुनाव and चुनाव have exact match
+फैसला and फैसला have exact match
+पार्टी and पार्टी have exact match
+महासचिव तरुण चुग  and महासचिव तरुण चुग  have exact match
+तरुण चुग  and तरुण चुग  have exact match
+चुग and चुग have exact match
+सीटों and सीटों have exact match
+प्रत्याशी and प्रत्याशी have exact match
+चुग and चुग have exact match
+चुनाव and चुनाव have exact match
+जम्मू-कश्मीर and जम्मू-कश्मीर have exact match
+लोकतंत्र and लोकतंत्र have exact match
+मजबूती and मजबूती have exact match
+लोग and लोग have exact match
+प्रतिनिधि and प्रतिनिधि have exact match
+आगे and आगे have exact match
+समझौते and समझौते have exact match
+करार and करार have exact match
+गुपकार and गुपकार have exact match
+मुंगेरी लाल  and मुंगेरी लाल  have exact match
+लाल and लाल have exact match
+सपने and सपने have exact match
+सच and सच have exact match
+अब्दुल्ला एंड संस  and अब्दुल्ला एंड संस  have exact match
+एंड संस  and एंड संस  have exact match
+संस और  and संस और  have exact match
+मुफ्ती एंड संस  and मुफ्ती एंड संस  have exact match
+एंड संस  and एंड संस  have exact match
+जम्मू-कश्मीर and जम्मू-कश्मीर have exact match
+संसाधनों and संसाधनों have exact match
+
+------------RELAXED MATCHES FOUND-----------
+
+जम्मू कश्मीर  and कश्मीर have a match
+जम्मू कश्मीर  and मीर have a match
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  have a match
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and एलायंस फॉर गुपकर डिक्लरेशन  have a match
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and फॉर गुपकर डिक्लरेशन  have a match
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and गुपकर डिक्लरेशन  have a match
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and पीपुल्स have a match
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and एलायंस have a match
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and फॉर have a match
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and डिक्लरेशन have a match
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and कश्मीर have a match
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and मीर have a match
+पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and एलायंस फॉर गुपकर डिक्लरेशन  have a match
+पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and फॉर गुपकर डिक्लरेशन  have a match
+पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and गुपकर डिक्लरेशन  have a match
+पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and पीपुल्स have a match
+पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and एलायंस have a match
+पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and फॉर have a match
+पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  and डिक्लरेशन have a match
+एलायंस फॉर गुपकर डिक्लरेशन  and फॉर गुपकर डिक्लरेशन  have a match
+एलायंस फॉर गुपकर डिक्लरेशन  and गुपकर डिक्लरेशन  have a match
+एलायंस फॉर गुपकर डिक्लरेशन  and एलायंस have a match
+एलायंस फॉर गुपकर डिक्लरेशन  and फॉर have a match
+एलायंस फॉर गुपकर डिक्लरेशन  and डिक्लरेशन have a match
+फॉर गुपकर डिक्लरेशन  and गुपकर डिक्लरेशन  have a match
+फॉर गुपकर डिक्लरेशन  and फॉर have a match
+फॉर गुपकर डिक्लरेशन  and डिक्लरेशन have a match
+गुपकर डिक्लरेशन  and डिक्लरेशन have a match
+डिक्लरेशन लड़ेगी  and डिक्लरेशन have a match
+चुनाव; and चुनाव have a match
+जम्मू-कश्मीर and कश्मीर have a match
+जम्मू-कश्मीर and मीर have a match
+28 नवंबर  and नवंबर have a match
+विकास परिषद  and परिषद have a match
+चुनावों and चुनाव have a match
+अगुवाई नेशनल कॉन्फ्रेंस के अध्यक्ष फारूख अब्दुल्ला कर  and नेशनल कॉन्फ्रेंस  have a match
+अगुवाई नेशनल कॉन्फ्रेंस के अध्यक्ष फारूख अब्दुल्ला कर  and कॉन्फ्रेंस have a match
+अगुवाई नेशनल कॉन्फ्रेंस के अध्यक्ष फारूख अब्दुल्ला कर  and अध्यक्ष फारूख अब्दुल्ला  have a match
+अगुवाई नेशनल कॉन्फ्रेंस के अध्यक्ष फारूख अब्दुल्ला कर  and फारूख अब्दुल्ला  have a match
+अगुवाई नेशनल कॉन्फ्रेंस के अध्यक्ष फारूख अब्दुल्ला कर  and अब्दुल्ला कर  have a match
+अगुवाई नेशनल कॉन्फ्रेंस के अध्यक्ष फारूख अब्दुल्ला कर  and नेशनल have a match
+अगुवाई नेशनल कॉन्फ्रेंस के अध्यक्ष फारूख अब्दुल्ला कर  and नेशनल कॉन्फ्रेंस  have a match
+नेशनल कॉन्फ्रेंस  and कॉन्फ्रेंस have a match
+नेशनल कॉन्फ्रेंस  and नेशनल have a match
+अध्यक्ष फारूख अब्दुल्ला  and फारूख अब्दुल्ला  have a match
+केंद्र सरकार  and सरकार have a match
+जम्मू कश्मीर  and कश्मीर have a match
+जम्मू कश्मीर  and मीर have a match
+कश्मीर and मीर have a match
+लोगों and लोग have a match
+एलायंस के सज्जाद लोन  and एलायंस have a match
+एलायंस के सज्जाद लोन  and सज्जाद लोन  have a match
+एलायंस के सज्जाद लोन  and लोन have a match
+सज्जाद लोन  and लोन have a match
+5 अगस्त 2019  and अगस्त 2019  have a match
+5 अगस्त 2019  and 2019 have a match
+अगस्त 2019  and 2019 have a match
+जम्मू कश्मीर  and कश्मीर have a match
+जम्मू कश्मीर  and मीर have a match
+पीपुल्स एलायंस फॉर गुपकार डिक्लेरेशन  and पीपुल्स have a match
+पीपुल्स एलायंस फॉर गुपकार डिक्लेरेशन  and एलायंस have a match
+पीपुल्स एलायंस फॉर गुपकार डिक्लेरेशन  and फॉर have a match
+पीपुल्स एलायंस फॉर गुपकार डिक्लेरेशन  and गुपकार have a match
+पीपुल्स एलायंस फॉर गुपकार डिक्लेरेशन  and एलायंस फॉर गुपकार डिक्लेरेशन  have a match
+पीपुल्स एलायंस फॉर गुपकार डिक्लेरेशन  and फॉर गुपकार डिक्लेरेशन  have a match
+पीपुल्स एलायंस फॉर गुपकार डिक्लेरेशन  and गुपकार डिक्लेरेशन  have a match
+पीपुल्स एलायंस फॉर गुपकार डिक्लेरेशन  and डिक्लेरेशन have a match
+एलायंस फॉर गुपकार डिक्लेरेशन  and एलायंस have a match
+एलायंस फॉर गुपकार डिक्लेरेशन  and फॉर have a match
+एलायंस फॉर गुपकार डिक्लेरेशन  and गुपकार have a match
+एलायंस फॉर गुपकार डिक्लेरेशन  and फॉर गुपकार डिक्लेरेशन  have a match
+एलायंस फॉर गुपकार डिक्लेरेशन  and गुपकार डिक्लेरेशन  have a match
+एलायंस फॉर गुपकार डिक्लेरेशन  and डिक्लेरेशन have a match
+फॉर गुपकार डिक्लेरेशन  and फॉर have a match
+फॉर गुपकार डिक्लेरेशन  and गुपकार have a match
+फॉर गुपकार डिक्लेरेशन  and गुपकार डिक्लेरेशन  have a match
+फॉर गुपकार डिक्लेरेशन  and डिक्लेरेशन have a match
+गुपकार डिक्लेरेशन  and गुपकार have a match
+गुपकार डिक्लेरेशन  and डिक्लेरेशन have a match
+सिविल सोसाइटी  and सोसाइटी have a match
+गुर्जर-बकरवाल समुदायों, एससी-एसटी  and समुदायों, एससी-एसटी  have a match
+गुर्जर-बकरवाल समुदायों, एससी-एसटी  and एससी-एसटी have a match
+समुदायों, एससी-एसटी  and एससी-एसटी have a match
+भाजपा और  and भाजपा have a match
+जम्मू कश्मीर  and कश्मीर have a match
+जम्मू कश्मीर  and मीर have a match
+आवामी नेशनल कॉन्फ्रेंस  and नेशनल कॉन्फ्रेंस  have a match
+आवामी नेशनल कॉन्फ्रेंस  and कॉन्फ्रेंस have a match
+आवामी नेशनल कॉन्फ्रेंस  and आवाम have a match
+आवामी नेशनल कॉन्फ्रेंस  and नेशनल have a match
+आवामी नेशनल कॉन्फ्रेंस  and नेशनल कॉन्फ्रेंस  have a match
+नेशनल कॉन्फ्रेंस  and कॉन्फ्रेंस have a match
+नेशनल कॉन्फ्रेंस  and नेशनल have a match
+कांग्रेस प्रदेश  and कांग्रेस have a match
+अध्यक्ष जीए मीर  and जीए मीर  have a match
+अध्यक्ष जीए मीर  and मीर have a match
+जीए मीर  and मीर have a match
+भारतीय जनता पार्टी  and पार्टी have a match
+भारतीय जनता पार्टी  and जनता have a match
+भारतीय जनता पार्टी  and जनता पार्टी  have a match
+जनता पार्टी  and पार्टी have a match
+जनता पार्टी  and जनता have a match
+महासचिव तरुण चुग  and तरुण चुग  have a match
+महासचिव तरुण चुग  and चुग have a match
+महासचिव तरुण चुग  and सच have a match
+तरुण चुग  and चुग have a match
+मुंगेरी लाल  and लाल have a match
+अब्दुल्ला एंड संस  and एंड संस  have a match
+अब्दुल्ला एंड संस  and एंड संस  have a match
+मुफ्ती एंड संस  and एंड संस  have a match
+मुफ्ती एंड संस  and एंड संस  have a match
+
+------------PROPER HEAD-WORD MATCHES FOUND-----------
+
+जम्मू कश्मीर  matches with कश्मीर
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  matches with पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन 
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  matches with एलायंस फॉर गुपकर डिक्लरेशन 
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  matches with फॉर गुपकर डिक्लरेशन 
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  matches with गुपकर डिक्लरेशन 
+कश्मीर : पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  matches with डिक्लरेशन
+पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  matches with एलायंस फॉर गुपकर डिक्लरेशन 
+पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  matches with फॉर गुपकर डिक्लरेशन 
+पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  matches with गुपकर डिक्लरेशन 
+पीपुल्स एलायंस फॉर गुपकर डिक्लरेशन  matches with डिक्लरेशन
+एलायंस फॉर गुपकर डिक्लरेशन  matches with फॉर गुपकर डिक्लरेशन 
+एलायंस फॉर गुपकर डिक्लरेशन  matches with गुपकर डिक्लरेशन 
+एलायंस फॉर गुपकर डिक्लरेशन  matches with डिक्लरेशन
+फॉर गुपकर डिक्लरेशन  matches with गुपकर डिक्लरेशन 
+फॉर गुपकर डिक्लरेशन  matches with डिक्लरेशन
+गुपकर डिक्लरेशन  matches with डिक्लरेशन
+28 नवंबर  matches with नवंबर
+विकास परिषद  matches with परिषद
+एलायंस matches with एलायंस
+नेशनल कॉन्फ्रेंस  matches with कॉन्फ्रेंस
+नेशनल कॉन्फ्रेंस  matches with आवामी नेशनल कॉन्फ्रेंस 
+कॉन्फ्रेंस matches with आवामी नेशनल कॉन्फ्रेंस 
+अध्यक्ष फारूख अब्दुल्ला  matches with फारूख अब्दुल्ला 
+केंद्र सरकार  matches with सरकार
+सरकार matches with सरकार
+एलायंस के सज्जाद लोन  matches with सज्जाद लोन 
+एलायंस के सज्जाद लोन  matches with लोन
+सज्जाद लोन  matches with लोन
+5 अगस्त 2019  matches with अगस्त 2019 
+5 अगस्त 2019  matches with 2019
+अगस्त 2019  matches with 2019
+पीपुल्स एलायंस फॉर गुपकार डिक्लेरेशन  matches with एलायंस फॉर गुपकार डिक्लेरेशन 
+पीपुल्स एलायंस फॉर गुपकार डिक्लेरेशन  matches with फॉर गुपकार डिक्लेरेशन 
+पीपुल्स एलायंस फॉर गुपकार डिक्लेरेशन  matches with गुपकार डिक्लेरेशन 
+पीपुल्स एलायंस फॉर गुपकार डिक्लेरेशन  matches with डिक्लेरेशन
+एलायंस फॉर गुपकार डिक्लेरेशन  matches with फॉर गुपकार डिक्लेरेशन 
+एलायंस फॉर गुपकार डिक्लेरेशन  matches with गुपकार डिक्लेरेशन 
+एलायंस फॉर गुपकार डिक्लेरेशन  matches with डिक्लेरेशन
+फॉर गुपकार डिक्लेरेशन  matches with गुपकार डिक्लेरेशन 
+फॉर गुपकार डिक्लेरेशन  matches with डिक्लेरेशन
+गुपकार डिक्लेरेशन  matches with डिक्लेरेशन
+गुर्जर-बकरवाल समुदायों, एससी-एसटी  matches with समुदायों, एससी-एसटी 
+गुर्जर-बकरवाल समुदायों, एससी-एसटी  matches with एससी-एसटी
+समुदायों, एससी-एसटी  matches with एससी-एसटी
+अध्यक्ष जीए मीर  matches with जीए मीर 
+अध्यक्ष जीए मीर  matches with मीर
+जीए मीर  matches with मीर
+कहा, matches with कहा,
+गुपकार matches with गुपकार
+भारतीय जनता पार्टी  matches with पार्टी
+भारतीय जनता पार्टी  matches with जनता पार्टी 
+जनता पार्टी  matches with पार्टी
+पार्टी matches with पार्टी
+महासचिव तरुण चुग  matches with तरुण चुग 
+महासचिव तरुण चुग  matches with चुग
+तरुण चुग  matches with चुग
+मुंगेरी लाल  matches with लाल
+अब्दुल्ला एंड संस  matches with एंड संस 
+अब्दुल्ला एंड संस  matches with मुफ्ती एंड संस 
+एंड संस  matches with मुफ्ती एंड संस 
+
+------------RELAXED HEAD-WORD MATCHES FOUND-----------
+
+अगुवाई नेशनल कॉन्फ्रेंस के अध्यक्ष फारूख अब्दुल्ला कर  matches with अब्दुल्ला कर 
+कहा, matches with कहा,
+सिविल सोसाइटी  matches with सोसाइटी
+DDC और  matches with भाजपा और 
+DDC और  matches with संस और 
+भाजपा और  matches with संस और 
+सरकार matches with केंद्र सरकार 
+सरकार matches with सरकार
+पार्टी matches with भारतीय जनता पार्टी 
+पार्टी matches with जनता पार्टी 
+पार्टी matches with पार्टी
+
+------------PRONOUN MATCHES FOUND-----------
+
+Pronoun अपने refers to हलचलें
+Pronoun इसका refers to एलायंस
+Pronoun हम refers to लोग
+Pronoun इसलिए refers to समर्थन
+Pronoun आपस refers to पार्टियां
+Pronoun अभी refers to पार्टियां
+Pronoun यह refers to पार्टियां
+Pronoun अपने can refer to ['मीर', 'जीए मीर ', 'अध्यक्ष जीए मीर ']
+Pronoun हम can refer to ['चुग', 'तरुण चुग ', 'महासचिव तरुण चुग ']
+Pronoun अपने can refer to ['महासचिव तरुण चुग ', 'तरुण चुग ', 'चुग']
+Pronoun अपने refers to लोग
+Pronoun उन्होंने refers to लोग
+Pronoun उनके refers to गुपकार
+Pronoun कभी refers to सपने

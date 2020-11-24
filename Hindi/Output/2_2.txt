@@ -1,0 +1,300 @@
+┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┐
+| Coreference Resolution Program |
+└ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┘
+
+------------MENTIONS FOUND-----------
+
+कंगना
+निशाने
+बाइडेन
+कंगना
+अमेरिका
+राष्ट्रपति बाइडेन 
+बाइडेन
+गजनी, कहा- 
+कहा-
+सालभर
+अमेरिका के राष्ट्रपति चुनाव 
+राष्ट्रपति चुनाव 
+चुनाव
+जोए बाइडन 
+बाइडन
+जीत
+कंगना रनोट 
+रनोट
+तंज
+राष्ट्रपति को गजनी बताया 
+गजनी बताया 
+सालभर
+साथ ही अमेरिका की पहली महिला उपराष्ट्रपति बनीं 
+अमेरिका
+उपराष्ट्रपति बनीं 
+कमला हैरिस 
+हैरिस
+जीत
+खुशी
+कंगना
+ट्वीट
+बाइडेन
+भरोसा
+डाटा
+मिनट
+दवाइयां
+इंजेक्ट
+साल
+कमला हैरिस 
+हैरिस
+शो
+महिला
+महिला
+रास्ता
+दिन
+चीयर
+आमिर
+फिल्म
+नाम
+कंगना
+ट्वीट
+गजनी शब्द 
+शब्द
+इस्तेमाल
+असल
+आमिर खान 
+खान स्टारर फिल्म 
+स्टारर फिल्म 
+फिल्म
+है,
+2008
+रिलीज
+फिल्म
+आमिर
+किरदार
+मिनट
+याददाश्त
+यूजर्स
+रिएक्शन
+कंगना
+पोस्ट
+यूजर्स
+यूजर
+लेडी
+इलाज
+जरूरत
+बीजेपी
+सपोर्ट
+नाम
+बाइडन- गजनी, 
+गटर, किसान- 
+यूजर
+कमेंट
+अमेरिकन पॉलिटिक्स 
+पॉलिटिक्स
+मजाक
+लोगों
+भावनाओं
+असल
+देश
+कोशिश
+इंसान
+गजनी
+शब्द
+इतिहास
+तकलीफों
+परिवार
+
+------------CLUSTERS FOUND-----------
+
+{'राष्ट्रपति बाइडेन ', 'बाइडेन'}
+{'गजनी, कहा- ', 'गजनी बताया ', 'बाइडन- गजनी, ', 'राष्ट्रपति को गजनी बताया ', 'गजनी', 'गजनी शब्द ', 'कहा-'}
+{'साल', 'सालभर'}
+{'अमेरिका के राष्ट्रपति चुनाव ', 'अमेरिका', 'महिला', 'राष्ट्रपति चुनाव ', 'चुनाव', 'उपराष्ट्रपति बनीं ', 'साथ ही अमेरिका की पहली महिला उपराष्ट्रपति बनीं '}
+{'बाइडन', 'बाइडन- गजनी, ', 'जोए बाइडन '}
+{'रनोट', 'कंगना रनोट ', 'कंगना'}
+{'राष्ट्रपति को गजनी बताया ', 'गजनी बताया '}
+{'हैरिस', 'कमला हैरिस '}
+{'शब्द', 'गजनी शब्द '}
+{'आमिर खान ', 'आमिर'}
+{'खान स्टारर फिल्म ', 'फिल्म', 'स्टारर फिल्म '}
+{'यूजर्स', 'यूजर'}
+{'पॉलिटिक्स', 'अमेरिकन पॉलिटिक्स '}
+
+------------EXACT MATCHES FOUND-----------
+
+कंगना and कंगना have exact match
+निशाने and निशाने have exact match
+बाइडेन and बाइडेन have exact match
+कंगना and कंगना have exact match
+अमेरिका and अमेरिका have exact match
+राष्ट्रपति बाइडेन  and राष्ट्रपति बाइडेन  have exact match
+बाइडेन and बाइडेन have exact match
+गजनी, कहा-  and गजनी, कहा-  have exact match
+कहा- and कहा- have exact match
+सालभर and सालभर have exact match
+अमेरिका के राष्ट्रपति चुनाव  and अमेरिका के राष्ट्रपति चुनाव  have exact match
+राष्ट्रपति चुनाव  and राष्ट्रपति चुनाव  have exact match
+चुनाव and चुनाव have exact match
+जोए बाइडन  and जोए बाइडन  have exact match
+बाइडन and बाइडन have exact match
+जीत and जीत have exact match
+कंगना रनोट  and कंगना रनोट  have exact match
+रनोट and रनोट have exact match
+तंज and तंज have exact match
+राष्ट्रपति को गजनी बताया  and राष्ट्रपति को गजनी बताया  have exact match
+गजनी बताया  and गजनी बताया  have exact match
+सालभर and सालभर have exact match
+साथ ही अमेरिका की पहली महिला उपराष्ट्रपति बनीं  and साथ ही अमेरिका की पहली महिला उपराष्ट्रपति बनीं  have exact match
+अमेरिका and अमेरिका have exact match
+उपराष्ट्रपति बनीं  and उपराष्ट्रपति बनीं  have exact match
+कमला हैरिस  and कमला हैरिस  have exact match
+हैरिस and हैरिस have exact match
+जीत and जीत have exact match
+खुशी and खुशी have exact match
+कंगना and कंगना have exact match
+ट्वीट and ट्वीट have exact match
+बाइडेन and बाइडेन have exact match
+भरोसा and भरोसा have exact match
+डाटा and डाटा have exact match
+मिनट and मिनट have exact match
+दवाइयां and दवाइयां have exact match
+इंजेक्ट and इंजेक्ट have exact match
+साल and साल have exact match
+कमला हैरिस  and कमला हैरिस  have exact match
+हैरिस and हैरिस have exact match
+शो and शो have exact match
+महिला and महिला have exact match
+महिला and महिला have exact match
+रास्ता and रास्ता have exact match
+दिन and दिन have exact match
+चीयर and चीयर have exact match
+आमिर and आमिर have exact match
+फिल्म and फिल्म have exact match
+नाम and नाम have exact match
+कंगना and कंगना have exact match
+ट्वीट and ट्वीट have exact match
+गजनी शब्द  and गजनी शब्द  have exact match
+शब्द and शब्द have exact match
+इस्तेमाल and इस्तेमाल have exact match
+असल and असल have exact match
+आमिर खान  and आमिर खान  have exact match
+खान स्टारर फिल्म  and खान स्टारर फिल्म  have exact match
+स्टारर फिल्म  and स्टारर फिल्म  have exact match
+फिल्म and फिल्म have exact match
+है, and है, have exact match
+2008 and 2008 have exact match
+रिलीज and रिलीज have exact match
+फिल्म and फिल्म have exact match
+आमिर and आमिर have exact match
+किरदार and किरदार have exact match
+मिनट and मिनट have exact match
+याददाश्त and याददाश्त have exact match
+यूजर्स and यूजर्स have exact match
+रिएक्शन and रिएक्शन have exact match
+कंगना and कंगना have exact match
+पोस्ट and पोस्ट have exact match
+यूजर्स and यूजर्स have exact match
+यूजर and यूजर have exact match
+लेडी and लेडी have exact match
+इलाज and इलाज have exact match
+जरूरत and जरूरत have exact match
+बीजेपी and बीजेपी have exact match
+सपोर्ट and सपोर्ट have exact match
+नाम and नाम have exact match
+बाइडन- गजनी,  and बाइडन- गजनी,  have exact match
+गटर, किसान-  and गटर, किसान-  have exact match
+यूजर and यूजर have exact match
+कमेंट and कमेंट have exact match
+अमेरिकन पॉलिटिक्स  and अमेरिकन पॉलिटिक्स  have exact match
+पॉलिटिक्स and पॉलिटिक्स have exact match
+मजाक and मजाक have exact match
+लोगों and लोगों have exact match
+भावनाओं and भावनाओं have exact match
+असल and असल have exact match
+देश and देश have exact match
+कोशिश and कोशिश have exact match
+इंसान and इंसान have exact match
+गजनी and गजनी have exact match
+शब्द and शब्द have exact match
+इतिहास and इतिहास have exact match
+तकलीफों and तकलीफों have exact match
+परिवार and परिवार have exact match
+
+------------RELAXED MATCHES FOUND-----------
+
+राष्ट्रपति बाइडेन  and बाइडेन have a match
+गजनी, कहा-  and कहा- have a match
+गजनी, कहा-  and गजनी have a match
+सालभर and साल have a match
+अमेरिका के राष्ट्रपति चुनाव  and अमेरिका have a match
+अमेरिका के राष्ट्रपति चुनाव  and राष्ट्रपति चुनाव  have a match
+अमेरिका के राष्ट्रपति चुनाव  and चुनाव have a match
+राष्ट्रपति चुनाव  and चुनाव have a match
+जोए बाइडन  and बाइडन have a match
+कंगना रनोट  and कंगना have a match
+कंगना रनोट  and रनोट have a match
+राष्ट्रपति को गजनी बताया  and गजनी बताया  have a match
+राष्ट्रपति को गजनी बताया  and गजनी have a match
+गजनी बताया  and गजनी have a match
+साथ ही अमेरिका की पहली महिला उपराष्ट्रपति बनीं  and अमेरिका have a match
+साथ ही अमेरिका की पहली महिला उपराष्ट्रपति बनीं  and उपराष्ट्रपति बनीं  have a match
+साथ ही अमेरिका की पहली महिला उपराष्ट्रपति बनीं  and महिला have a match
+कमला हैरिस  and हैरिस have a match
+कमला हैरिस  and हैरिस have a match
+गजनी शब्द  and शब्द have a match
+गजनी शब्द  and गजनी have a match
+आमिर खान  and आमिर have a match
+खान स्टारर फिल्म  and फिल्म have a match
+खान स्टारर फिल्म  and स्टारर फिल्म  have a match
+स्टारर फिल्म  and फिल्म have a match
+यूजर्स and यूजर have a match
+बाइडन- गजनी,  and बाइडन have a match
+बाइडन- गजनी,  and गजनी have a match
+अमेरिकन पॉलिटिक्स  and पॉलिटिक्स have a match
+
+------------PROPER HEAD-WORD MATCHES FOUND-----------
+
+बाइडेन matches with राष्ट्रपति बाइडेन 
+गजनी, कहा-  matches with कहा-
+जोए बाइडन  matches with बाइडन
+कंगना रनोट  matches with रनोट
+कमला हैरिस  matches with हैरिस
+
+------------RELAXED HEAD-WORD MATCHES FOUND-----------
+
+अमेरिका के राष्ट्रपति चुनाव  matches with राष्ट्रपति चुनाव 
+अमेरिका के राष्ट्रपति चुनाव  matches with चुनाव
+राष्ट्रपति चुनाव  matches with चुनाव
+राष्ट्रपति को गजनी बताया  matches with गजनी बताया 
+साथ ही अमेरिका की पहली महिला उपराष्ट्रपति बनीं  matches with उपराष्ट्रपति बनीं 
+फिल्म matches with खान स्टारर फिल्म 
+फिल्म matches with स्टारर फिल्म 
+गजनी शब्द  matches with शब्द
+खान स्टारर फिल्म  matches with स्टारर फिल्म 
+अमेरिकन पॉलिटिक्स  matches with पॉलिटिक्स
+
+------------PRONOUN MATCHES FOUND-----------
+
+Pronoun वे refers to कंगना
+Pronoun उन्होंने can refer to ['रनोट', 'कंगना रनोट ']
+Pronoun वे can refer to ['कंगना रनोट ', 'रनोट']
+Pronoun अपने refers to कंगना
+Pronoun जिनका refers to कंगना
+Pronoun उन्हें can refer to ['डाटा', 'कंगना']
+Pronoun वे refers to दवाइयां
+Pronoun जब can refer to ['हैरिस', 'कमला हैरिस ']
+Pronoun वह refers to महिला
+Pronoun अपने refers to कंगना
+Pronoun वह refers to कंगना
+Pronoun जो can refer to ['है,', 'कंगना']
+Pronoun वह refers to आमिर
+Pronoun अपनी refers to आमिर
+Pronoun उन्हें refers to यूजर्स
+Pronoun जो can refer to ['जरूरत', 'यूजर']
+Pronoun वह can refer to ['यूजर', 'जरूरत']
+Pronoun उनका refers to सपोर्ट
+Pronoun तुम can refer to ['मजाक', 'कमेंट']
+Pronoun हम can refer to ['कमेंट', 'मजाक']
+Pronoun जो refers to भावनाओं
+Pronoun यहां refers to भावनाओं
+Pronoun उनके can refer to ['शब्द', 'गजनी']
+Pronoun उन्होंने can refer to ['गजनी', 'शब्द']
+Pronoun अपना can refer to ['शब्द', 'गजनी']

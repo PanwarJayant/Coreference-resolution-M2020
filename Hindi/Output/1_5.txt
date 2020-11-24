@@ -1,0 +1,344 @@
+┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┐
+| Coreference Resolution Program |
+└ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┘
+
+------------MENTIONS FOUND-----------
+
+पार्षद
+SP मनीषा चौधरी 
+मनीषा चौधरी 
+चौधरी
+पार्षद
+सहयोगी
+आत्महत्या
+केस
+पार्षद हरीश शर्मा 
+हरीश शर्मा 
+शर्मा और 
+सहयोगी राजेश शर्मा 
+राजेश शर्मा 
+मामले
+पानीपत
+मनीषा
+चौधरी,
+कैंप
+इंचार्ज
+बलजीत और 
+SI महाबीर 
+केस
+गृह मंत्री 
+मंत्री अनिल विज 
+अनिल विज 
+विज
+हस्तक्षेप
+बाद
+मॉडल
+टाउन थाने 
+थाने
+IPC की धारा 306 
+धारा 306 
+306 व 
+केस
+गिरफ्तारी
+पार्षद हरीश शर्मा 
+हरीश शर्मा 
+शर्मा और 
+सहयोगी राजेश शर्मा 
+राजेश शर्मा 
+आत्महत्या
+मामला
+तूल
+पार्षद
+रविवार और 
+राजेश शर्मा 
+शुक्रवार
+बिंझौल नहर 
+नहर
+शव
+पार्षद
+सोमवार
+संस्कार
+भाजपा
+साथ
+सोमवार
+CM भूपेंद्र सिंह हुड्‌डा 
+भूपेंद्र सिंह हुड्‌डा 
+सिंह हुड्‌डा 
+हुड्‌डा और 
+कांग्रेस नेता 
+नेता रणदीप सुरजेवाला 
+रणदीप सुरजेवाला 
+परिवार
+सांत्वना
+व्यवस्था
+सवाल
+मामले
+जांच
+गृह मंत्री 
+मंत्री अनिल विज 
+अनिल विज 
+विज
+SIT
+गठन
+संदीप खिरवार 
+खिरवार
+अध्यक्षता
+SIT
+दिन
+सुबूत
+प्रकरण
+लोगों
+बयान
+शुरू
+पुलिस
+प्रणाली
+सवाल
+मामले
+SP मनीषा चौधरी 
+मनीषा चौधरी 
+चौधरी
+कैंप
+इंचार्ज
+बलजीत और 
+SI महाबीर 
+पहले
+SP बचाए 
+बात
+दबाव
+बाद
+सोमवार
+टाउन थाने 
+थाने
+SP
+मनीषा
+चौधरी,
+कैंप
+इंचार्ज
+बलजीत और 
+SI महाबीर 
+पार्षद
+सहयोगी
+आत्महत्या
+केस
+
+------------CLUSTERS FOUND-----------
+
+{'मनीषा चौधरी ', 'चौधरी,', 'SP मनीषा चौधरी ', 'मनीषा', 'SP', 'चौधरी', 'SP बचाए '}
+{'पार्षद हरीश शर्मा ', 'पार्षद', 'हरीश शर्मा '}
+{'सहयोगी', 'सहयोगी राजेश शर्मा ', 'राजेश शर्मा '}
+{'विज', 'मंत्री अनिल विज ', 'अनिल विज '}
+{'थाने', 'टाउन थाने '}
+{'धारा 306 ', 'IPC की धारा 306 '}
+{'बिंझौल नहर ', 'नहर'}
+{'भूपेंद्र सिंह हुड्\u200cडा ', 'सिंह हुड्\u200cडा ', 'CM भूपेंद्र सिंह हुड्\u200cडा '}
+{'रणदीप सुरजेवाला ', 'नेता रणदीप सुरजेवाला '}
+{'संदीप खिरवार ', 'खिरवार'}
+
+------------EXACT MATCHES FOUND-----------
+
+पार्षद and पार्षद have exact match
+SP मनीषा चौधरी  and SP मनीषा चौधरी  have exact match
+मनीषा चौधरी  and मनीषा चौधरी  have exact match
+चौधरी and चौधरी have exact match
+पार्षद and पार्षद have exact match
+सहयोगी and सहयोगी have exact match
+आत्महत्या and आत्महत्या have exact match
+केस and केस have exact match
+पार्षद हरीश शर्मा  and पार्षद हरीश शर्मा  have exact match
+हरीश शर्मा  and हरीश शर्मा  have exact match
+शर्मा और  and शर्मा और  have exact match
+सहयोगी राजेश शर्मा  and सहयोगी राजेश शर्मा  have exact match
+राजेश शर्मा  and राजेश शर्मा  have exact match
+मामले and मामले have exact match
+पानीपत and पानीपत have exact match
+मनीषा and मनीषा have exact match
+चौधरी, and चौधरी, have exact match
+कैंप and कैंप have exact match
+इंचार्ज and इंचार्ज have exact match
+बलजीत और  and बलजीत और  have exact match
+SI महाबीर  and SI महाबीर  have exact match
+केस and केस have exact match
+गृह मंत्री  and गृह मंत्री  have exact match
+मंत्री अनिल विज  and मंत्री अनिल विज  have exact match
+अनिल विज  and अनिल विज  have exact match
+विज and विज have exact match
+हस्तक्षेप and हस्तक्षेप have exact match
+बाद and बाद have exact match
+मॉडल and मॉडल have exact match
+टाउन थाने  and टाउन थाने  have exact match
+थाने and थाने have exact match
+IPC की धारा 306  and IPC की धारा 306  have exact match
+धारा 306  and धारा 306  have exact match
+306 व  and 306 व  have exact match
+केस and केस have exact match
+गिरफ्तारी and गिरफ्तारी have exact match
+पार्षद हरीश शर्मा  and पार्षद हरीश शर्मा  have exact match
+हरीश शर्मा  and हरीश शर्मा  have exact match
+शर्मा और  and शर्मा और  have exact match
+सहयोगी राजेश शर्मा  and सहयोगी राजेश शर्मा  have exact match
+राजेश शर्मा  and राजेश शर्मा  have exact match
+आत्महत्या and आत्महत्या have exact match
+मामला and मामला have exact match
+तूल and तूल have exact match
+पार्षद and पार्षद have exact match
+रविवार और  and रविवार और  have exact match
+राजेश शर्मा  and राजेश शर्मा  have exact match
+शुक्रवार and शुक्रवार have exact match
+बिंझौल नहर  and बिंझौल नहर  have exact match
+नहर and नहर have exact match
+शव and शव have exact match
+पार्षद and पार्षद have exact match
+सोमवार and सोमवार have exact match
+संस्कार and संस्कार have exact match
+भाजपा and भाजपा have exact match
+साथ and साथ have exact match
+सोमवार and सोमवार have exact match
+CM भूपेंद्र सिंह हुड्‌डा  and CM भूपेंद्र सिंह हुड्‌डा  have exact match
+भूपेंद्र सिंह हुड्‌डा  and भूपेंद्र सिंह हुड्‌डा  have exact match
+सिंह हुड्‌डा  and सिंह हुड्‌डा  have exact match
+हुड्‌डा और  and हुड्‌डा और  have exact match
+कांग्रेस नेता  and कांग्रेस नेता  have exact match
+नेता रणदीप सुरजेवाला  and नेता रणदीप सुरजेवाला  have exact match
+रणदीप सुरजेवाला  and रणदीप सुरजेवाला  have exact match
+परिवार and परिवार have exact match
+सांत्वना and सांत्वना have exact match
+व्यवस्था and व्यवस्था have exact match
+सवाल and सवाल have exact match
+मामले and मामले have exact match
+जांच and जांच have exact match
+गृह मंत्री  and गृह मंत्री  have exact match
+मंत्री अनिल विज  and मंत्री अनिल विज  have exact match
+अनिल विज  and अनिल विज  have exact match
+विज and विज have exact match
+SIT and SIT have exact match
+गठन and गठन have exact match
+संदीप खिरवार  and संदीप खिरवार  have exact match
+खिरवार and खिरवार have exact match
+अध्यक्षता and अध्यक्षता have exact match
+SIT and SIT have exact match
+दिन and दिन have exact match
+सुबूत and सुबूत have exact match
+प्रकरण and प्रकरण have exact match
+लोगों and लोगों have exact match
+बयान and बयान have exact match
+शुरू and शुरू have exact match
+पुलिस and पुलिस have exact match
+प्रणाली and प्रणाली have exact match
+सवाल and सवाल have exact match
+मामले and मामले have exact match
+SP मनीषा चौधरी  and SP मनीषा चौधरी  have exact match
+मनीषा चौधरी  and मनीषा चौधरी  have exact match
+चौधरी and चौधरी have exact match
+कैंप and कैंप have exact match
+इंचार्ज and इंचार्ज have exact match
+बलजीत और  and बलजीत और  have exact match
+SI महाबीर  and SI महाबीर  have exact match
+पहले and पहले have exact match
+SP बचाए  and SP बचाए  have exact match
+बात and बात have exact match
+दबाव and दबाव have exact match
+बाद and बाद have exact match
+सोमवार and सोमवार have exact match
+टाउन थाने  and टाउन थाने  have exact match
+थाने and थाने have exact match
+SP and SP have exact match
+मनीषा and मनीषा have exact match
+चौधरी, and चौधरी, have exact match
+कैंप and कैंप have exact match
+इंचार्ज and इंचार्ज have exact match
+बलजीत और  and बलजीत और  have exact match
+SI महाबीर  and SI महाबीर  have exact match
+पार्षद and पार्षद have exact match
+सहयोगी and सहयोगी have exact match
+आत्महत्या and आत्महत्या have exact match
+केस and केस have exact match
+
+------------RELAXED MATCHES FOUND-----------
+
+SP मनीषा चौधरी  and मनीषा चौधरी  have a match
+SP मनीषा चौधरी  and चौधरी have a match
+SP मनीषा चौधरी  and मनीषा have a match
+SP मनीषा चौधरी  and मनीषा चौधरी  have a match
+SP मनीषा चौधरी  and SP have a match
+मनीषा चौधरी  and चौधरी have a match
+मनीषा चौधरी  and मनीषा have a match
+पार्षद हरीश शर्मा  and पार्षद have a match
+पार्षद हरीश शर्मा  and हरीश शर्मा  have a match
+पार्षद हरीश शर्मा  and हरीश शर्मा  have a match
+सहयोगी राजेश शर्मा  and सहयोगी have a match
+सहयोगी राजेश शर्मा  and राजेश शर्मा  have a match
+सहयोगी राजेश शर्मा  and राजेश शर्मा  have a match
+सहयोगी राजेश शर्मा  and राजेश शर्मा  have a match
+चौधरी, and चौधरी have a match
+मंत्री अनिल विज  and अनिल विज  have a match
+मंत्री अनिल विज  and विज have a match
+मंत्री अनिल विज  and अनिल विज  have a match
+अनिल विज  and विज have a match
+टाउन थाने  and थाने have a match
+IPC की धारा 306  and धारा 306  have a match
+पार्षद हरीश शर्मा  and पार्षद have a match
+पार्षद हरीश शर्मा  and हरीश शर्मा  have a match
+पार्षद हरीश शर्मा  and हरीश शर्मा  have a match
+सहयोगी राजेश शर्मा  and सहयोगी have a match
+सहयोगी राजेश शर्मा  and राजेश शर्मा  have a match
+सहयोगी राजेश शर्मा  and राजेश शर्मा  have a match
+सहयोगी राजेश शर्मा  and राजेश शर्मा  have a match
+बिंझौल नहर  and नहर have a match
+CM भूपेंद्र सिंह हुड्‌डा  and भूपेंद्र सिंह हुड्‌डा  have a match
+CM भूपेंद्र सिंह हुड्‌डा  and सिंह हुड्‌डा  have a match
+भूपेंद्र सिंह हुड्‌डा  and सिंह हुड्‌डा  have a match
+नेता रणदीप सुरजेवाला  and रणदीप सुरजेवाला  have a match
+मंत्री अनिल विज  and अनिल विज  have a match
+मंत्री अनिल विज  and विज have a match
+मंत्री अनिल विज  and अनिल विज  have a match
+अनिल विज  and विज have a match
+संदीप खिरवार  and खिरवार have a match
+SP मनीषा चौधरी  and मनीषा चौधरी  have a match
+SP मनीषा चौधरी  and चौधरी have a match
+SP मनीषा चौधरी  and मनीषा have a match
+SP मनीषा चौधरी  and मनीषा चौधरी  have a match
+SP मनीषा चौधरी  and SP have a match
+मनीषा चौधरी  and चौधरी have a match
+मनीषा चौधरी  and मनीषा have a match
+SP बचाए  and SP have a match
+टाउन थाने  and थाने have a match
+
+------------PROPER HEAD-WORD MATCHES FOUND-----------
+
+SP मनीषा चौधरी  matches with मनीषा चौधरी 
+SP मनीषा चौधरी  matches with चौधरी
+मनीषा चौधरी  matches with चौधरी
+पार्षद हरीश शर्मा  matches with हरीश शर्मा 
+पार्षद हरीश शर्मा  matches with सहयोगी राजेश शर्मा 
+पार्षद हरीश शर्मा  matches with राजेश शर्मा 
+हरीश शर्मा  matches with सहयोगी राजेश शर्मा 
+हरीश शर्मा  matches with राजेश शर्मा 
+सहयोगी राजेश शर्मा  matches with राजेश शर्मा 
+मंत्री अनिल विज  matches with अनिल विज 
+मंत्री अनिल विज  matches with विज
+अनिल विज  matches with विज
+टाउन थाने  matches with थाने
+IPC की धारा 306  matches with धारा 306 
+CM भूपेंद्र सिंह हुड्‌डा  matches with भूपेंद्र सिंह हुड्‌डा 
+CM भूपेंद्र सिंह हुड्‌डा  matches with सिंह हुड्‌डा 
+भूपेंद्र सिंह हुड्‌डा  matches with सिंह हुड्‌डा 
+नेता रणदीप सुरजेवाला  matches with रणदीप सुरजेवाला 
+संदीप खिरवार  matches with खिरवार
+
+------------RELAXED HEAD-WORD MATCHES FOUND-----------
+
+शर्मा और  matches with बलजीत और 
+शर्मा और  matches with रविवार और 
+शर्मा और  matches with हुड्‌डा और 
+बलजीत और  matches with रविवार और 
+बलजीत और  matches with हुड्‌डा और 
+रविवार और  matches with हुड्‌डा और 
+बिंझौल नहर  matches with नहर
+
+------------PRONOUN MATCHES FOUND-----------
+
+Pronoun उनके refers to पार्षद
+Pronoun अभी can refer to ['केस', 'मॉडल']
+Pronoun किसी can refer to ['मॉडल', 'केस']
+Pronoun उनके can refer to ['केस', 'मॉडल']
+Pronoun उनके refers to बलजीत और 

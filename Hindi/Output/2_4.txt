@@ -1,0 +1,502 @@
+┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┐
+| Coreference Resolution Program |
+└ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┘
+
+------------MENTIONS FOUND-----------
+
+अर्नब
+जेल
+पुलिस
+कस्टडी
+मोबाइल
+इस्तेमाल
+जेल
+टीवी
+एडिटर इन चीफ अर्नब गोस्वामी 
+चीफ अर्नब गोस्वामी 
+अर्नब गोस्वामी 
+गोस्वामी
+रविवार
+रायगढ़ जिले 
+जिले की तलोजा जेल 
+तलोजा जेल 
+जेल
+पुलिस
+अर्नब
+हिरासत
+फोन
+इस्तेमाल
+कार्रवाई
+डिजाइनर
+आत्महत्या
+मामले
+गिरफ्तारी
+बाद
+अलीबाग
+स्कूल
+क्वारैंटाइन सेंटर 
+सेंटर
+अधिकारियों
+पुलिस
+4 नवंबर 
+नवंबर
+अर्नब
+हिरासत
+फोन
+रायगढ़ क्राइम ब्रांच 
+क्राइम ब्रांच 
+ब्रांच
+अर्नब
+और
+फोन
+इस्तेमाल
+मीडिया
+तलोजा
+जेल
+गोस्वामी
+आरोप
+शनिवार शाम 
+शाम
+अलीबाग जेल 
+जेल
+जेलर
+साथ
+मारपीट
+जिंदगी
+खतरे
+वकील
+बात
+इजाजत
+किरीट सोमैया 
+सोमैया
+जेलर
+मुलाकात
+भाजपा
+सांसद किरीट सोमैया 
+किरीट सोमैया 
+सोमैया
+ट्वीट
+तलोजा जेल 
+जेल
+जेलर
+आश्वासन
+गोस्वामी
+ट्रीटमेंट
+अर्नब
+पास
+बीच,
+अर्नब गोस्वामी 
+गोस्वामी
+समर्थन
+दिल्ली
+राजघाट
+पास
+भाजपा नेता 
+नेता कपिल मिश्रा 
+कपिल मिश्रा 
+मिश्रा और 
+तेजिंदर बग्गा 
+प्रदर्शन
+पुलिस
+हिरासत
+कपिल मिश्रा 
+मिश्रा
+देश
+बार
+पत्रकार
+परिवार
+सदस्यों
+मुकदमा
+सरकार
+सवाल
+महाराष्ट्र सरकार 
+सरकार
+गोस्वामी
+अत्याचार
+अधिकारी
+मिश्रा और 
+लोगों
+सुबह
+बजे
+हिरासत
+आदेशों
+उल्लंघन
+राजघाट
+प्रदर्शन
+बाद
+4 नवंबर 
+नवंबर
+गिरफ्तारी
+अर्नब
+साथ
+फिरोज शेख 
+शेख और 
+नीतीश सारदा 
+4 नवंबर 
+नवंबर
+अलीबाग पुलिस 
+पुलिस
+तौर
+डिजाइनर अन्वय नाइक 
+अन्वय नाइक 
+नाइक
+काम
+बाद
+भुगतान
+अन्वय
+मां
+2018
+आत्महत्या
+जमानत
+कल
+फैसला
+अर्नब
+मुंबई
+परेल
+घर
+बाद
+अलीबाग ले 
+मजिस्ट्रेट
+18 नवंबर 
+नवंबर
+हिरासत
+अर्नब
+स्कूल
+मामले
+बॉम्बे हाईकोर्ट 
+हाईकोर्ट
+सुनवाई
+कोर्ट
+सोमवार
+फैसला
+
+------------CLUSTERS FOUND-----------
+
+{'अर्नब गोस्वामी ', 'अर्नब', 'गोस्वामी', 'एडिटर इन चीफ अर्नब गोस्वामी ', 'चीफ अर्नब गोस्वामी '}
+{'तलोजा जेल ', 'तलोजा', 'जेलर', 'अलीबाग ले ', 'जेल', 'अलीबाग', 'जिले की तलोजा जेल ', 'अलीबाग जेल ', 'अलीबाग पुलिस '}
+{'सेंटर', 'क्वारैंटाइन सेंटर '}
+{'4 नवंबर ', 'नवंबर', '18 नवंबर '}
+{'ब्रांच', 'रायगढ़ क्राइम ब्रांच ', 'क्राइम ब्रांच '}
+{'शाम', 'शनिवार शाम '}
+{'सांसद किरीट सोमैया ', 'किरीट सोमैया ', 'सोमैया'}
+{'भाजपा', 'भाजपा नेता '}
+{'और', 'मिश्रा और ', 'कपिल मिश्रा ', 'शेख और ', 'नेता कपिल मिश्रा ', 'मिश्रा'}
+{'मिश्रा और ', 'और'}
+{'महाराष्ट्र सरकार ', 'सरकार'}
+{'देश', 'आदेशों'}
+{'पुलिस', 'अलीबाग पुलिस '}
+{'डिजाइनर', 'डिजाइनर अन्वय नाइक ', 'नाइक', 'अन्वय नाइक ', 'अन्वय'}
+{'हाईकोर्ट', 'बॉम्बे हाईकोर्ट ', 'कोर्ट'}
+
+------------EXACT MATCHES FOUND-----------
+
+अर्नब and अर्नब have exact match
+जेल and जेल have exact match
+पुलिस and पुलिस have exact match
+कस्टडी and कस्टडी have exact match
+मोबाइल and मोबाइल have exact match
+इस्तेमाल and इस्तेमाल have exact match
+जेल and जेल have exact match
+टीवी and टीवी have exact match
+एडिटर इन चीफ अर्नब गोस्वामी  and एडिटर इन चीफ अर्नब गोस्वामी  have exact match
+चीफ अर्नब गोस्वामी  and चीफ अर्नब गोस्वामी  have exact match
+अर्नब गोस्वामी  and अर्नब गोस्वामी  have exact match
+गोस्वामी and गोस्वामी have exact match
+रविवार and रविवार have exact match
+रायगढ़ जिले  and रायगढ़ जिले  have exact match
+जिले की तलोजा जेल  and जिले की तलोजा जेल  have exact match
+तलोजा जेल  and तलोजा जेल  have exact match
+जेल and जेल have exact match
+पुलिस and पुलिस have exact match
+अर्नब and अर्नब have exact match
+हिरासत and हिरासत have exact match
+फोन and फोन have exact match
+इस्तेमाल and इस्तेमाल have exact match
+कार्रवाई and कार्रवाई have exact match
+डिजाइनर and डिजाइनर have exact match
+आत्महत्या and आत्महत्या have exact match
+मामले and मामले have exact match
+गिरफ्तारी and गिरफ्तारी have exact match
+बाद and बाद have exact match
+अलीबाग and अलीबाग have exact match
+स्कूल and स्कूल have exact match
+क्वारैंटाइन सेंटर  and क्वारैंटाइन सेंटर  have exact match
+सेंटर and सेंटर have exact match
+अधिकारियों and अधिकारियों have exact match
+पुलिस and पुलिस have exact match
+4 नवंबर  and 4 नवंबर  have exact match
+नवंबर and नवंबर have exact match
+अर्नब and अर्नब have exact match
+हिरासत and हिरासत have exact match
+फोन and फोन have exact match
+रायगढ़ क्राइम ब्रांच  and रायगढ़ क्राइम ब्रांच  have exact match
+क्राइम ब्रांच  and क्राइम ब्रांच  have exact match
+ब्रांच and ब्रांच have exact match
+अर्नब and अर्नब have exact match
+और and और have exact match
+फोन and फोन have exact match
+इस्तेमाल and इस्तेमाल have exact match
+मीडिया and मीडिया have exact match
+तलोजा and तलोजा have exact match
+जेल and जेल have exact match
+गोस्वामी and गोस्वामी have exact match
+आरोप and आरोप have exact match
+शनिवार शाम  and शनिवार शाम  have exact match
+शाम and शाम have exact match
+अलीबाग जेल  and अलीबाग जेल  have exact match
+जेल and जेल have exact match
+जेलर and जेलर have exact match
+साथ and साथ have exact match
+मारपीट and मारपीट have exact match
+जिंदगी and जिंदगी have exact match
+खतरे and खतरे have exact match
+वकील and वकील have exact match
+बात and बात have exact match
+इजाजत and इजाजत have exact match
+किरीट सोमैया  and किरीट सोमैया  have exact match
+सोमैया and सोमैया have exact match
+जेलर and जेलर have exact match
+मुलाकात and मुलाकात have exact match
+भाजपा and भाजपा have exact match
+सांसद किरीट सोमैया  and सांसद किरीट सोमैया  have exact match
+किरीट सोमैया  and किरीट सोमैया  have exact match
+सोमैया and सोमैया have exact match
+ट्वीट and ट्वीट have exact match
+तलोजा जेल  and तलोजा जेल  have exact match
+जेल and जेल have exact match
+जेलर and जेलर have exact match
+आश्वासन and आश्वासन have exact match
+गोस्वामी and गोस्वामी have exact match
+ट्रीटमेंट and ट्रीटमेंट have exact match
+अर्नब and अर्नब have exact match
+पास and पास have exact match
+बीच, and बीच, have exact match
+अर्नब गोस्वामी  and अर्नब गोस्वामी  have exact match
+गोस्वामी and गोस्वामी have exact match
+समर्थन and समर्थन have exact match
+दिल्ली and दिल्ली have exact match
+राजघाट and राजघाट have exact match
+पास and पास have exact match
+भाजपा नेता  and भाजपा नेता  have exact match
+नेता कपिल मिश्रा  and नेता कपिल मिश्रा  have exact match
+कपिल मिश्रा  and कपिल मिश्रा  have exact match
+मिश्रा और  and मिश्रा और  have exact match
+तेजिंदर बग्गा  and तेजिंदर बग्गा  have exact match
+प्रदर्शन and प्रदर्शन have exact match
+पुलिस and पुलिस have exact match
+हिरासत and हिरासत have exact match
+कपिल मिश्रा  and कपिल मिश्रा  have exact match
+मिश्रा and मिश्रा have exact match
+देश and देश have exact match
+बार and बार have exact match
+पत्रकार and पत्रकार have exact match
+परिवार and परिवार have exact match
+सदस्यों and सदस्यों have exact match
+मुकदमा and मुकदमा have exact match
+सरकार and सरकार have exact match
+सवाल and सवाल have exact match
+महाराष्ट्र सरकार  and महाराष्ट्र सरकार  have exact match
+सरकार and सरकार have exact match
+गोस्वामी and गोस्वामी have exact match
+अत्याचार and अत्याचार have exact match
+अधिकारी and अधिकारी have exact match
+मिश्रा और  and मिश्रा और  have exact match
+लोगों and लोगों have exact match
+सुबह and सुबह have exact match
+बजे and बजे have exact match
+हिरासत and हिरासत have exact match
+आदेशों and आदेशों have exact match
+उल्लंघन and उल्लंघन have exact match
+राजघाट and राजघाट have exact match
+प्रदर्शन and प्रदर्शन have exact match
+बाद and बाद have exact match
+4 नवंबर  and 4 नवंबर  have exact match
+नवंबर and नवंबर have exact match
+गिरफ्तारी and गिरफ्तारी have exact match
+अर्नब and अर्नब have exact match
+साथ and साथ have exact match
+फिरोज शेख  and फिरोज शेख  have exact match
+शेख और  and शेख और  have exact match
+नीतीश सारदा  and नीतीश सारदा  have exact match
+4 नवंबर  and 4 नवंबर  have exact match
+नवंबर and नवंबर have exact match
+अलीबाग पुलिस  and अलीबाग पुलिस  have exact match
+पुलिस and पुलिस have exact match
+तौर and तौर have exact match
+डिजाइनर अन्वय नाइक  and डिजाइनर अन्वय नाइक  have exact match
+अन्वय नाइक  and अन्वय नाइक  have exact match
+नाइक and नाइक have exact match
+काम and काम have exact match
+बाद and बाद have exact match
+भुगतान and भुगतान have exact match
+अन्वय and अन्वय have exact match
+मां and मां have exact match
+2018 and 2018 have exact match
+आत्महत्या and आत्महत्या have exact match
+जमानत and जमानत have exact match
+कल and कल have exact match
+फैसला and फैसला have exact match
+अर्नब and अर्नब have exact match
+मुंबई and मुंबई have exact match
+परेल and परेल have exact match
+घर and घर have exact match
+बाद and बाद have exact match
+अलीबाग ले  and अलीबाग ले  have exact match
+मजिस्ट्रेट and मजिस्ट्रेट have exact match
+18 नवंबर  and 18 नवंबर  have exact match
+नवंबर and नवंबर have exact match
+हिरासत and हिरासत have exact match
+अर्नब and अर्नब have exact match
+स्कूल and स्कूल have exact match
+मामले and मामले have exact match
+बॉम्बे हाईकोर्ट  and बॉम्बे हाईकोर्ट  have exact match
+हाईकोर्ट and हाईकोर्ट have exact match
+सुनवाई and सुनवाई have exact match
+कोर्ट and कोर्ट have exact match
+सोमवार and सोमवार have exact match
+फैसला and फैसला have exact match
+
+------------RELAXED MATCHES FOUND-----------
+
+एडिटर इन चीफ अर्नब गोस्वामी  and अर्नब have a match
+एडिटर इन चीफ अर्नब गोस्वामी  and चीफ अर्नब गोस्वामी  have a match
+एडिटर इन चीफ अर्नब गोस्वामी  and अर्नब गोस्वामी  have a match
+एडिटर इन चीफ अर्नब गोस्वामी  and गोस्वामी have a match
+एडिटर इन चीफ अर्नब गोस्वामी  and अर्नब गोस्वामी  have a match
+चीफ अर्नब गोस्वामी  and अर्नब have a match
+चीफ अर्नब गोस्वामी  and अर्नब गोस्वामी  have a match
+चीफ अर्नब गोस्वामी  and गोस्वामी have a match
+चीफ अर्नब गोस्वामी  and अर्नब गोस्वामी  have a match
+अर्नब गोस्वामी  and अर्नब have a match
+अर्नब गोस्वामी  and गोस्वामी have a match
+जिले की तलोजा जेल  and जेल have a match
+जिले की तलोजा जेल  and तलोजा जेल  have a match
+जिले की तलोजा जेल  and तलोजा have a match
+जिले की तलोजा जेल  and तलोजा जेल  have a match
+तलोजा जेल  and जेल have a match
+तलोजा जेल  and तलोजा have a match
+क्वारैंटाइन सेंटर  and सेंटर have a match
+4 नवंबर  and नवंबर have a match
+रायगढ़ क्राइम ब्रांच  and क्राइम ब्रांच  have a match
+रायगढ़ क्राइम ब्रांच  and ब्रांच have a match
+क्राइम ब्रांच  and ब्रांच have a match
+शनिवार शाम  and शाम have a match
+अलीबाग जेल  and जेल have a match
+अलीबाग जेल  and अलीबाग have a match
+जेलर and जेल have a match
+किरीट सोमैया  and सोमैया have a match
+सांसद किरीट सोमैया  and किरीट सोमैया  have a match
+सांसद किरीट सोमैया  and सोमैया have a match
+सांसद किरीट सोमैया  and किरीट सोमैया  have a match
+किरीट सोमैया  and सोमैया have a match
+तलोजा जेल  and जेल have a match
+तलोजा जेल  and तलोजा have a match
+अर्नब गोस्वामी  and अर्नब have a match
+अर्नब गोस्वामी  and गोस्वामी have a match
+भाजपा नेता  and भाजपा have a match
+नेता कपिल मिश्रा  and कपिल मिश्रा  have a match
+नेता कपिल मिश्रा  and कपिल मिश्रा  have a match
+नेता कपिल मिश्रा  and मिश्रा have a match
+कपिल मिश्रा  and मिश्रा have a match
+मिश्रा और  and और have a match
+मिश्रा और  and मिश्रा have a match
+कपिल मिश्रा  and मिश्रा have a match
+महाराष्ट्र सरकार  and सरकार have a match
+मिश्रा और  and और have a match
+मिश्रा और  and मिश्रा have a match
+आदेशों and देश have a match
+4 नवंबर  and नवंबर have a match
+शेख और  and और have a match
+4 नवंबर  and नवंबर have a match
+अलीबाग पुलिस  and पुलिस have a match
+अलीबाग पुलिस  and अलीबाग have a match
+डिजाइनर अन्वय नाइक  and डिजाइनर have a match
+डिजाइनर अन्वय नाइक  and अन्वय नाइक  have a match
+डिजाइनर अन्वय नाइक  and नाइक have a match
+डिजाइनर अन्वय नाइक  and अन्वय have a match
+अन्वय नाइक  and नाइक have a match
+अन्वय नाइक  and अन्वय have a match
+अलीबाग ले  and अलीबाग have a match
+18 नवंबर  and नवंबर have a match
+बॉम्बे हाईकोर्ट  and हाईकोर्ट have a match
+बॉम्बे हाईकोर्ट  and कोर्ट have a match
+हाईकोर्ट and कोर्ट have a match
+
+------------PROPER HEAD-WORD MATCHES FOUND-----------
+
+एडिटर इन चीफ अर्नब गोस्वामी  matches with चीफ अर्नब गोस्वामी 
+एडिटर इन चीफ अर्नब गोस्वामी  matches with अर्नब गोस्वामी 
+एडिटर इन चीफ अर्नब गोस्वामी  matches with गोस्वामी
+चीफ अर्नब गोस्वामी  matches with अर्नब गोस्वामी 
+चीफ अर्नब गोस्वामी  matches with गोस्वामी
+अर्नब गोस्वामी  matches with गोस्वामी
+जिले की तलोजा जेल  matches with जेल
+जिले की तलोजा जेल  matches with तलोजा जेल 
+जिले की तलोजा जेल  matches with अलीबाग जेल 
+तलोजा जेल  matches with जेल
+तलोजा जेल  matches with अलीबाग जेल 
+तलोजा जेल  matches with तलोजा जेल 
+जेल matches with जेल
+जेल matches with अलीबाग जेल 
+4 नवंबर  matches with नवंबर
+4 नवंबर  matches with 18 नवंबर 
+नवंबर matches with 18 नवंबर 
+किरीट सोमैया  matches with सोमैया
+किरीट सोमैया  matches with सांसद किरीट सोमैया 
+सोमैया matches with सांसद किरीट सोमैया 
+नेता कपिल मिश्रा  matches with कपिल मिश्रा 
+नेता कपिल मिश्रा  matches with मिश्रा
+कपिल मिश्रा  matches with मिश्रा
+डिजाइनर अन्वय नाइक  matches with अन्वय नाइक 
+डिजाइनर अन्वय नाइक  matches with नाइक
+अन्वय नाइक  matches with नाइक
+बॉम्बे हाईकोर्ट  matches with हाईकोर्ट
+
+------------RELAXED HEAD-WORD MATCHES FOUND-----------
+
+जेल matches with जिले की तलोजा जेल 
+जेल matches with तलोजा जेल 
+जेल matches with जेल
+जेल matches with अलीबाग जेल 
+पुलिस matches with अलीबाग पुलिस 
+क्वारैंटाइन सेंटर  matches with सेंटर
+रायगढ़ क्राइम ब्रांच  matches with क्राइम ब्रांच 
+रायगढ़ क्राइम ब्रांच  matches with ब्रांच
+क्राइम ब्रांच  matches with ब्रांच
+और matches with मिश्रा और 
+और matches with शेख और 
+शनिवार शाम  matches with शाम
+तलोजा जेल  matches with जिले की तलोजा जेल 
+तलोजा जेल  matches with तलोजा जेल 
+तलोजा जेल  matches with अलीबाग जेल 
+मिश्रा और  matches with शेख और 
+सरकार matches with महाराष्ट्र सरकार 
+
+------------PRONOUN MATCHES FOUND-----------
+
+Pronoun इसलिए can refer to ['मोबाइल', 'अर्नब']
+Pronoun इसलिए can refer to ['अर्नब', 'पुलिस']
+Pronoun उन्हें can refer to ['पुलिस', 'अर्नब']
+Pronoun उनका can refer to ['पुलिस', 'अधिकारियों']
+Pronoun किसी can refer to ['अर्नब', 'ब्रांच', 'क्राइम ब्रांच ', 'रायगढ़ क्राइम ब्रांच ']
+Pronoun उनके can refer to ['जेलर', 'गोस्वामी', 'तलोजा']
+Pronoun उनकी can refer to ['तलोजा', 'गोस्वामी', 'जेलर']
+Pronoun उन्हें refers to जिंदगी
+Pronoun अपने refers to जिंदगी
+Pronoun वह can refer to ['सोमैया', 'किरीट सोमैया ', 'सांसद किरीट सोमैया ']
+Pronoun उनसे can refer to ['सांसद किरीट सोमैया ', 'किरीट सोमैया ', 'सोमैया']
+Pronoun उनको refers to पुलिस
+Pronoun ऐसा can refer to ['मिश्रा', 'कपिल मिश्रा ']
+Pronoun उसके can refer to ['कपिल मिश्रा ', 'मिश्रा']
+Pronoun उसने can refer to ['मिश्रा', 'कपिल मिश्रा ']
+Pronoun हम refers to सवाल
+Pronoun वे refers to अधिकारी
+Pronoun उन्हें refers to आदेशों
+Pronoun उन्होंने can refer to ['पुलिस', 'अलीबाग पुलिस ', 'शेख और ', 'अर्नब']
+Pronoun उन्हें can refer to ['अर्नब', 'शेख और ', 'अलीबाग पुलिस ', 'पुलिस']
+Pronoun इससे can refer to ['डिजाइनर अन्वय नाइक ', 'अन्वय नाइक ', 'नाइक', 'काम']
+Pronoun उनकी can refer to ['काम', 'नाइक', 'अन्वय नाइक ', 'डिजाइनर अन्वय नाइक ']
+Pronoun उनके refers to अर्नब
+Pronoun वहां refers to अर्नब
+Pronoun उन्हें refers to मजिस्ट्रेट
+Pronoun अपना refers to कोर्ट

@@ -1,0 +1,267 @@
+┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┐
+| Coreference Resolution Program |
+└ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┘
+
+------------MENTIONS FOUND-----------
+
+फतेहाबाद
+मंजर
+दिनों
+टीचर
+बेटों
+नहर
+लाश
+पत्नी
+जहर
+बाद
+फतेहाबाद
+सोमवार
+नहर
+शव
+टीचर
+बच्चे
+पुलिस
+दिन
+सोमवार
+नहर
+तीनों
+शव
+पुलिस
+शवों
+पोस्टमॉर्टम
+साथ
+आगे
+कार्रवाई
+जानकारी
+फतेहाबाद के रामसरा गांव 
+रामसरा गांव 
+गांव
+निवासी कुलदीप सिंह 
+कुलदीप सिंह 
+सिंह
+जाखल
+टीचर
+समय
+पत्नी
+जहर
+सूचना
+बाद
+दिन
+पहले
+कुलदीप
+साल
+बेटे वीरेंद्र सिंह 
+वीरेंद्र सिंह 
+सिंह और 
+साल
+साथ
+घर
+कुलदीप
+हेलमेट
+कंबल
+भट्टू मंडी 
+मंडी
+फतेहाबाद ब्रांच 
+ब्रांच
+नहर
+बाद
+नहर
+अभियान
+शनिवार
+नहर
+स्कूटी
+तलाशी
+दौरान
+शनिवार
+नहर
+स्कूटी
+कुलदीप और 
+जानकारी
+सोमवार
+नहर
+तलाशी
+दौरान
+कुलदीप और 
+शव
+पीलीमंदोरी और 
+गांव के बीच जबकि 
+शव
+गिगोरानी माइनर 
+माइनर
+गांव
+ठुइयां
+पास
+पुलिस
+शवों
+पोस्टमार्टम
+फतेहाबाद
+अस्पताल
+
+------------CLUSTERS FOUND-----------
+
+{'ब्रांच', 'फतेहाबाद', 'फतेहाबाद ब्रांच ', 'बाद', 'गांव के बीच जबकि ', 'गांव', 'फतेहाबाद के रामसरा गांव ', 'रामसरा गांव '}
+{'दिन', 'दिनों'}
+{'शवों', 'शव'}
+{'वीरेंद्र सिंह ', 'कुलदीप', 'सिंह', 'कुलदीप सिंह ', 'कुलदीप और ', 'निवासी कुलदीप सिंह ', 'बेटे वीरेंद्र सिंह ', 'सिंह और '}
+{'भट्टू मंडी ', 'मंडी'}
+{'तलाशी', 'लाश'}
+{'माइनर', 'गिगोरानी माइनर '}
+
+------------EXACT MATCHES FOUND-----------
+
+फतेहाबाद and फतेहाबाद have exact match
+मंजर and मंजर have exact match
+दिनों and दिनों have exact match
+टीचर and टीचर have exact match
+बेटों and बेटों have exact match
+नहर and नहर have exact match
+लाश and लाश have exact match
+पत्नी and पत्नी have exact match
+जहर and जहर have exact match
+बाद and बाद have exact match
+फतेहाबाद and फतेहाबाद have exact match
+सोमवार and सोमवार have exact match
+नहर and नहर have exact match
+शव and शव have exact match
+टीचर and टीचर have exact match
+बच्चे and बच्चे have exact match
+पुलिस and पुलिस have exact match
+दिन and दिन have exact match
+सोमवार and सोमवार have exact match
+नहर and नहर have exact match
+तीनों and तीनों have exact match
+शव and शव have exact match
+पुलिस and पुलिस have exact match
+शवों and शवों have exact match
+पोस्टमॉर्टम and पोस्टमॉर्टम have exact match
+साथ and साथ have exact match
+आगे and आगे have exact match
+कार्रवाई and कार्रवाई have exact match
+जानकारी and जानकारी have exact match
+फतेहाबाद के रामसरा गांव  and फतेहाबाद के रामसरा गांव  have exact match
+रामसरा गांव  and रामसरा गांव  have exact match
+गांव and गांव have exact match
+निवासी कुलदीप सिंह  and निवासी कुलदीप सिंह  have exact match
+कुलदीप सिंह  and कुलदीप सिंह  have exact match
+सिंह and सिंह have exact match
+जाखल and जाखल have exact match
+टीचर and टीचर have exact match
+समय and समय have exact match
+पत्नी and पत्नी have exact match
+जहर and जहर have exact match
+सूचना and सूचना have exact match
+बाद and बाद have exact match
+दिन and दिन have exact match
+पहले and पहले have exact match
+कुलदीप and कुलदीप have exact match
+साल and साल have exact match
+बेटे वीरेंद्र सिंह  and बेटे वीरेंद्र सिंह  have exact match
+वीरेंद्र सिंह  and वीरेंद्र सिंह  have exact match
+सिंह और  and सिंह और  have exact match
+साल and साल have exact match
+साथ and साथ have exact match
+घर and घर have exact match
+कुलदीप and कुलदीप have exact match
+हेलमेट and हेलमेट have exact match
+कंबल and कंबल have exact match
+भट्टू मंडी  and भट्टू मंडी  have exact match
+मंडी and मंडी have exact match
+फतेहाबाद ब्रांच  and फतेहाबाद ब्रांच  have exact match
+ब्रांच and ब्रांच have exact match
+नहर and नहर have exact match
+बाद and बाद have exact match
+नहर and नहर have exact match
+अभियान and अभियान have exact match
+शनिवार and शनिवार have exact match
+नहर and नहर have exact match
+स्कूटी and स्कूटी have exact match
+तलाशी and तलाशी have exact match
+दौरान and दौरान have exact match
+शनिवार and शनिवार have exact match
+नहर and नहर have exact match
+स्कूटी and स्कूटी have exact match
+कुलदीप और  and कुलदीप और  have exact match
+जानकारी and जानकारी have exact match
+सोमवार and सोमवार have exact match
+नहर and नहर have exact match
+तलाशी and तलाशी have exact match
+दौरान and दौरान have exact match
+कुलदीप और  and कुलदीप और  have exact match
+शव and शव have exact match
+पीलीमंदोरी और  and पीलीमंदोरी और  have exact match
+गांव के बीच जबकि  and गांव के बीच जबकि  have exact match
+शव and शव have exact match
+गिगोरानी माइनर  and गिगोरानी माइनर  have exact match
+माइनर and माइनर have exact match
+गांव and गांव have exact match
+ठुइयां and ठुइयां have exact match
+पास and पास have exact match
+पुलिस and पुलिस have exact match
+शवों and शवों have exact match
+पोस्टमार्टम and पोस्टमार्टम have exact match
+फतेहाबाद and फतेहाबाद have exact match
+अस्पताल and अस्पताल have exact match
+
+------------RELAXED MATCHES FOUND-----------
+
+फतेहाबाद and बाद have a match
+दिनों and दिन have a match
+शवों and शव have a match
+फतेहाबाद के रामसरा गांव  and फतेहाबाद have a match
+फतेहाबाद के रामसरा गांव  and बाद have a match
+फतेहाबाद के रामसरा गांव  and रामसरा गांव  have a match
+फतेहाबाद के रामसरा गांव  and गांव have a match
+रामसरा गांव  and गांव have a match
+निवासी कुलदीप सिंह  and कुलदीप सिंह  have a match
+निवासी कुलदीप सिंह  and सिंह have a match
+निवासी कुलदीप सिंह  and कुलदीप have a match
+कुलदीप सिंह  and सिंह have a match
+कुलदीप सिंह  and कुलदीप have a match
+बेटे वीरेंद्र सिंह  and सिंह have a match
+बेटे वीरेंद्र सिंह  and वीरेंद्र सिंह  have a match
+वीरेंद्र सिंह  and सिंह have a match
+सिंह और  and सिंह have a match
+भट्टू मंडी  and मंडी have a match
+फतेहाबाद ब्रांच  and फतेहाबाद have a match
+फतेहाबाद ब्रांच  and बाद have a match
+फतेहाबाद ब्रांच  and ब्रांच have a match
+तलाशी and लाश have a match
+कुलदीप और  and कुलदीप have a match
+कुलदीप और  and कुलदीप have a match
+गांव के बीच जबकि  and गांव have a match
+गिगोरानी माइनर  and माइनर have a match
+
+------------PROPER HEAD-WORD MATCHES FOUND-----------
+
+निवासी कुलदीप सिंह  matches with कुलदीप सिंह 
+निवासी कुलदीप सिंह  matches with सिंह
+निवासी कुलदीप सिंह  matches with बेटे वीरेंद्र सिंह 
+निवासी कुलदीप सिंह  matches with वीरेंद्र सिंह 
+कुलदीप सिंह  matches with सिंह
+कुलदीप सिंह  matches with बेटे वीरेंद्र सिंह 
+कुलदीप सिंह  matches with वीरेंद्र सिंह 
+सिंह matches with बेटे वीरेंद्र सिंह 
+सिंह matches with वीरेंद्र सिंह 
+बेटे वीरेंद्र सिंह  matches with वीरेंद्र सिंह 
+भट्टू मंडी  matches with मंडी
+गिगोरानी माइनर  matches with माइनर
+
+------------RELAXED HEAD-WORD MATCHES FOUND-----------
+
+फतेहाबाद के रामसरा गांव  matches with रामसरा गांव 
+फतेहाबाद के रामसरा गांव  matches with गांव
+रामसरा गांव  matches with गांव
+सिंह और  matches with कुलदीप और 
+सिंह और  matches with पीलीमंदोरी और 
+फतेहाबाद ब्रांच  matches with ब्रांच
+कुलदीप और  matches with पीलीमंदोरी और 
+
+------------PRONOUN MATCHES FOUND-----------
+
+Pronoun इनमें refers to शव
+Pronoun उनके refers to शव
+Pronoun अपने refers to कुलदीप
+Pronoun इसके can refer to ['ब्रांच', 'फतेहाबाद ब्रांच ']
+Pronoun उसके refers to स्कूटी
+Pronoun कोई refers to स्कूटी
+Pronoun उसके can refer to ['जानकारी', 'स्कूटी']

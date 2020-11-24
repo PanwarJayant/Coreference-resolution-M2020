@@ -1,0 +1,209 @@
+┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┐
+| Coreference Resolution Program |
+└ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┘
+
+------------MENTIONS FOUND-----------
+
+कोरोना संकट 
+संकट
+मास्क
+स्कूल
+पहले
+विद्यार्थियों
+जांच
+कोरोना
+लहर
+सरकार
+अलर्ट
+लोगों
+संक्रमण
+मास्क
+स्कूल
+पहले
+विद्यार्थियों
+घर
+मोहल्ले
+कोरोना
+जांच
+बच्चे
+खतरा
+सीएम मनोहर लाल 
+मनोहर लाल 
+लाल
+घोषणा
+रविवार
+जनता
+नाम
+संदेश
+सीएम
+पहले
+लॉकडाउन
+बाजार
+फैक्ट्रियां
+कारोबार
+बात
+ध्यान
+सूत्रों
+सरकार
+ढील
+विचार
+इधर
+रविवार
+फतेहाबाद
+शिक्षकों
+मरीज
+मरीजों
+मौत
+हिसार
+गुड़गांव
+भिवानी
+4-4
+फतेहाबाद
+फरीदाबाद
+झज्जर
+सोनीपत
+रोहतक
+2-2
+चरखी दादरी 
+दादरी
+कुरुक्षेत्र
+सिरसा
+जींद
+पानीपत
+महेंद्रगढ़
+मौत
+2209
+जान
+घंटे
+मरीज
+94
+लोग
+कोरोना
+जंग
+मरीजों
+हालत
+
+------------CLUSTERS FOUND-----------
+
+{'संकट', 'कोरोना संकट ', 'कोरोना'}
+{'लोगों', 'लोग'}
+{'मनोहर लाल ', 'सीएम मनोहर लाल ', 'सीएम', 'लाल'}
+{'मरीजों', 'मरीज'}
+{'दादरी', 'चरखी दादरी '}
+
+------------EXACT MATCHES FOUND-----------
+
+कोरोना संकट  and कोरोना संकट  have exact match
+संकट and संकट have exact match
+मास्क and मास्क have exact match
+स्कूल and स्कूल have exact match
+पहले and पहले have exact match
+विद्यार्थियों and विद्यार्थियों have exact match
+जांच and जांच have exact match
+कोरोना and कोरोना have exact match
+लहर and लहर have exact match
+सरकार and सरकार have exact match
+अलर्ट and अलर्ट have exact match
+लोगों and लोगों have exact match
+संक्रमण and संक्रमण have exact match
+मास्क and मास्क have exact match
+स्कूल and स्कूल have exact match
+पहले and पहले have exact match
+विद्यार्थियों and विद्यार्थियों have exact match
+घर and घर have exact match
+मोहल्ले and मोहल्ले have exact match
+कोरोना and कोरोना have exact match
+जांच and जांच have exact match
+बच्चे and बच्चे have exact match
+खतरा and खतरा have exact match
+सीएम मनोहर लाल  and सीएम मनोहर लाल  have exact match
+मनोहर लाल  and मनोहर लाल  have exact match
+लाल and लाल have exact match
+घोषणा and घोषणा have exact match
+रविवार and रविवार have exact match
+जनता and जनता have exact match
+नाम and नाम have exact match
+संदेश and संदेश have exact match
+सीएम and सीएम have exact match
+पहले and पहले have exact match
+लॉकडाउन and लॉकडाउन have exact match
+बाजार and बाजार have exact match
+फैक्ट्रियां and फैक्ट्रियां have exact match
+कारोबार and कारोबार have exact match
+बात and बात have exact match
+ध्यान and ध्यान have exact match
+सूत्रों and सूत्रों have exact match
+सरकार and सरकार have exact match
+ढील and ढील have exact match
+विचार and विचार have exact match
+इधर and इधर have exact match
+रविवार and रविवार have exact match
+फतेहाबाद and फतेहाबाद have exact match
+शिक्षकों and शिक्षकों have exact match
+मरीज and मरीज have exact match
+मरीजों and मरीजों have exact match
+मौत and मौत have exact match
+हिसार and हिसार have exact match
+गुड़गांव and गुड़गांव have exact match
+भिवानी and भिवानी have exact match
+4-4 and 4-4 have exact match
+फतेहाबाद and फतेहाबाद have exact match
+फरीदाबाद and फरीदाबाद have exact match
+झज्जर and झज्जर have exact match
+सोनीपत and सोनीपत have exact match
+रोहतक and रोहतक have exact match
+2-2 and 2-2 have exact match
+चरखी दादरी  and चरखी दादरी  have exact match
+दादरी and दादरी have exact match
+कुरुक्षेत्र and कुरुक्षेत्र have exact match
+सिरसा and सिरसा have exact match
+जींद and जींद have exact match
+पानीपत and पानीपत have exact match
+महेंद्रगढ़ and महेंद्रगढ़ have exact match
+मौत and मौत have exact match
+2209 and 2209 have exact match
+जान and जान have exact match
+घंटे and घंटे have exact match
+मरीज and मरीज have exact match
+94 and 94 have exact match
+लोग and लोग have exact match
+कोरोना and कोरोना have exact match
+जंग and जंग have exact match
+मरीजों and मरीजों have exact match
+हालत and हालत have exact match
+
+------------RELAXED MATCHES FOUND-----------
+
+कोरोना संकट  and संकट have a match
+कोरोना संकट  and कोरोना have a match
+लोगों and लोग have a match
+सीएम मनोहर लाल  and मनोहर लाल  have a match
+सीएम मनोहर लाल  and लाल have a match
+सीएम मनोहर लाल  and सीएम have a match
+मनोहर लाल  and लाल have a match
+मरीजों and मरीज have a match
+चरखी दादरी  and दादरी have a match
+
+------------PROPER HEAD-WORD MATCHES FOUND-----------
+
+सीएम मनोहर लाल  matches with मनोहर लाल 
+सीएम मनोहर लाल  matches with लाल
+मनोहर लाल  matches with लाल
+चरखी दादरी  matches with दादरी
+
+------------RELAXED HEAD-WORD MATCHES FOUND-----------
+
+कोरोना संकट  matches with संकट
+
+------------PRONOUN MATCHES FOUND-----------
+
+Pronoun उनके refers to स्कूल
+Pronoun किसी refers to स्कूल
+Pronoun किसी refers to स्कूल
+Pronoun जब refers to सीएम
+Pronoun इसलिए can refer to ['कारोबार', 'फैक्ट्रियां', 'बाजार', 'सीएम']
+Pronoun ऐसा can refer to ['सीएम', 'बाजार', 'फैक्ट्रियां', 'कारोबार']
+Pronoun अब can refer to ['मरीज', 'शिक्षकों']
+Pronoun अब can refer to ['सिरसा', 'दादरी', 'चरखी दादरी ', '2-2', 'झज्जर', 'फतेहाबाद', '4-4']
+Pronoun अब refers to मरीज
+Pronoun अब refers to 94

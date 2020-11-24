@@ -1,0 +1,444 @@
+┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┐
+| Coreference Resolution Program |
+└ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┘
+
+------------MENTIONS FOUND-----------
+
+बाबा
+शिवराज सरकार 
+सरकार
+यात्रा
+बाबा
+आश्रम तोड़ा, बाबा 
+तोड़ा, बाबा 
+बाबा
+जेल
+मध्य प्रदेश 
+प्रदेश
+इंदौर
+नामदेव दास त्यागी 
+दास त्यागी 
+त्यागी
+बाबा)
+रविवार
+कब्जे
+मामले
+कार्रवाई
+बाबा के गोम्मट गिरी 
+गोम्मट गिरी 
+गिरी
+आश्रम
+प्रशासन
+बाबा
+प्रिवेंटिव डिटेंशन 
+डिटेंशन
+हिरासत
+जेल
+कम्प्यूटर
+बाबा
+हाल
+मध्य प्रदेश 
+प्रदेश
+सीटों
+उपचुनाव
+शिवराज सरकार 
+सरकार
+लोकतंत्र
+यात्रा
+प्रशासन
+महीने
+पहले
+नोटिस
+इंदौर
+एयरपोर्ट रोड 
+रोड
+जम्बूडी हप्सी 
+हप्सी गांव 
+गांव
+बाबा
+आश्रम
+आरोप
+गौशाला
+एकड़
+जमीन
+कब्जा
+एकड़
+जमीन
+आश्रम
+प्रशासन
+महीने
+पहले
+कंप्यूटर
+बाबा
+नोटिस
+कागज
+रुपए
+फाइन
+कब्जा
+बाबा
+तरफ
+कागज
+कब्जा
+ADM अजयदेव शर्मा 
+अजयदेव शर्मा 
+शर्मा
+रविवार सुबह 
+सुबह
+निगम
+टीम
+पुलिस
+साथ
+मौके
+आश्रम
+विरोध
+आशंका
+पुलिस
+बाबा और 
+पहले
+हिरासत
+कम्प्यूटर
+बाबा
+दिग्विजय सिंह 
+सिंह
+यज्ञ
+बाबा
+राजनीति
+चुनाव
+साध्वी प्रज्ञासिंह 
+प्रज्ञासिंह
+विरोध
+कांग्रेस प्रत्याशी 
+प्रत्याशी दिग्विजय सिंह 
+दिग्विजय सिंह 
+सिंह
+समर्थन
+यज्ञ
+दिग्विजय सिंह 
+सिंह
+बाबा
+आश्रम
+बदले
+कार्रवाई
+भाजपा-कांग्रेस सरकारों 
+सरकारों
+बाबा
+राज्यमंत्री
+दर्जा
+नर्मदा नदी 
+नदी
+किनारे
+पेड़
+घोटाले
+मार्च 2018 
+2018
+यात्रा
+घोषणा
+बाद
+शिवराज सरकार 
+सरकार
+पौधारोपण
+बढ़ावा
+कमेटी
+बनाई,
+कम्प्यूटर
+बाबा
+राज्यमंत्री
+दर्जा
+लेकिन, सरकार 
+सरकार
+बाबा
+खेमा
+कांग्रेस
+पक्ष
+बाद
+कांग्रेस सरकार 
+सरकार
+नर्मदा विकास 
+विकास
+समिति
+बाबा
+राज्यमंत्री
+दर्जा
+
+------------CLUSTERS FOUND-----------
+
+{'शिवराज सरकार ', 'कांग्रेस सरकार ', 'लेकिन, सरकार ', 'भाजपा-कांग्रेस सरकारों ', 'कांग्रेस', 'सरकारों', 'सरकार'}
+{'गोम्मट गिरी ', 'आश्रम', 'बाबा और ', 'तोड़ा, बाबा ', 'बाबा के गोम्मट गिरी ', 'बाबा)', 'गिरी', 'आश्रम तोड़ा, बाबा ', 'बाबा'}
+{'प्रदेश', 'मध्य प्रदेश '}
+{'त्यागी', 'दास त्यागी ', 'नामदेव दास त्यागी '}
+{'प्रिवेंटिव डिटेंशन ', 'डिटेंशन'}
+{'चुनाव', 'उपचुनाव'}
+{'एयरपोर्ट रोड ', 'रोड'}
+{'हप्सी गांव ', 'गांव'}
+{'ADM अजयदेव शर्मा ', 'शर्मा', 'अजयदेव शर्मा '}
+{'रविवार सुबह ', 'सुबह', 'रविवार'}
+{'दिग्विजय सिंह ', 'प्रत्याशी दिग्विजय सिंह ', 'सिंह', 'साध्वी प्रज्ञासिंह ', 'प्रज्ञासिंह'}
+{'कांग्रेस', 'कांग्रेस प्रत्याशी '}
+{'नर्मदा नदी ', 'नदी'}
+{'2018', 'मार्च 2018 '}
+{'नर्मदा विकास ', 'विकास'}
+
+------------EXACT MATCHES FOUND-----------
+
+बाबा and बाबा have exact match
+शिवराज सरकार  and शिवराज सरकार  have exact match
+सरकार and सरकार have exact match
+यात्रा and यात्रा have exact match
+बाबा and बाबा have exact match
+आश्रम तोड़ा, बाबा  and आश्रम तोड़ा, बाबा  have exact match
+तोड़ा, बाबा  and तोड़ा, बाबा  have exact match
+बाबा and बाबा have exact match
+जेल and जेल have exact match
+मध्य प्रदेश  and मध्य प्रदेश  have exact match
+प्रदेश and प्रदेश have exact match
+इंदौर and इंदौर have exact match
+नामदेव दास त्यागी  and नामदेव दास त्यागी  have exact match
+दास त्यागी  and दास त्यागी  have exact match
+त्यागी and त्यागी have exact match
+बाबा) and बाबा) have exact match
+रविवार and रविवार have exact match
+कब्जे and कब्जे have exact match
+मामले and मामले have exact match
+कार्रवाई and कार्रवाई have exact match
+बाबा के गोम्मट गिरी  and बाबा के गोम्मट गिरी  have exact match
+गोम्मट गिरी  and गोम्मट गिरी  have exact match
+गिरी and गिरी have exact match
+आश्रम and आश्रम have exact match
+प्रशासन and प्रशासन have exact match
+बाबा and बाबा have exact match
+प्रिवेंटिव डिटेंशन  and प्रिवेंटिव डिटेंशन  have exact match
+डिटेंशन and डिटेंशन have exact match
+हिरासत and हिरासत have exact match
+जेल and जेल have exact match
+कम्प्यूटर and कम्प्यूटर have exact match
+बाबा and बाबा have exact match
+हाल and हाल have exact match
+मध्य प्रदेश  and मध्य प्रदेश  have exact match
+प्रदेश and प्रदेश have exact match
+सीटों and सीटों have exact match
+उपचुनाव and उपचुनाव have exact match
+शिवराज सरकार  and शिवराज सरकार  have exact match
+सरकार and सरकार have exact match
+लोकतंत्र and लोकतंत्र have exact match
+यात्रा and यात्रा have exact match
+प्रशासन and प्रशासन have exact match
+महीने and महीने have exact match
+पहले and पहले have exact match
+नोटिस and नोटिस have exact match
+इंदौर and इंदौर have exact match
+एयरपोर्ट रोड  and एयरपोर्ट रोड  have exact match
+रोड and रोड have exact match
+जम्बूडी हप्सी  and जम्बूडी हप्सी  have exact match
+हप्सी गांव  and हप्सी गांव  have exact match
+गांव and गांव have exact match
+बाबा and बाबा have exact match
+आश्रम and आश्रम have exact match
+आरोप and आरोप have exact match
+गौशाला and गौशाला have exact match
+एकड़ and एकड़ have exact match
+जमीन and जमीन have exact match
+कब्जा and कब्जा have exact match
+एकड़ and एकड़ have exact match
+जमीन and जमीन have exact match
+आश्रम and आश्रम have exact match
+प्रशासन and प्रशासन have exact match
+महीने and महीने have exact match
+पहले and पहले have exact match
+कंप्यूटर and कंप्यूटर have exact match
+बाबा and बाबा have exact match
+नोटिस and नोटिस have exact match
+कागज and कागज have exact match
+रुपए and रुपए have exact match
+फाइन and फाइन have exact match
+कब्जा and कब्जा have exact match
+बाबा and बाबा have exact match
+तरफ and तरफ have exact match
+कागज and कागज have exact match
+कब्जा and कब्जा have exact match
+ADM अजयदेव शर्मा  and ADM अजयदेव शर्मा  have exact match
+अजयदेव शर्मा  and अजयदेव शर्मा  have exact match
+शर्मा and शर्मा have exact match
+रविवार सुबह  and रविवार सुबह  have exact match
+सुबह and सुबह have exact match
+निगम and निगम have exact match
+टीम and टीम have exact match
+पुलिस and पुलिस have exact match
+साथ and साथ have exact match
+मौके and मौके have exact match
+आश्रम and आश्रम have exact match
+विरोध and विरोध have exact match
+आशंका and आशंका have exact match
+पुलिस and पुलिस have exact match
+बाबा और  and बाबा और  have exact match
+पहले and पहले have exact match
+हिरासत and हिरासत have exact match
+कम्प्यूटर and कम्प्यूटर have exact match
+बाबा and बाबा have exact match
+दिग्विजय सिंह  and दिग्विजय सिंह  have exact match
+सिंह and सिंह have exact match
+यज्ञ and यज्ञ have exact match
+बाबा and बाबा have exact match
+राजनीति and राजनीति have exact match
+चुनाव and चुनाव have exact match
+साध्वी प्रज्ञासिंह  and साध्वी प्रज्ञासिंह  have exact match
+प्रज्ञासिंह and प्रज्ञासिंह have exact match
+विरोध and विरोध have exact match
+कांग्रेस प्रत्याशी  and कांग्रेस प्रत्याशी  have exact match
+प्रत्याशी दिग्विजय सिंह  and प्रत्याशी दिग्विजय सिंह  have exact match
+दिग्विजय सिंह  and दिग्विजय सिंह  have exact match
+सिंह and सिंह have exact match
+समर्थन and समर्थन have exact match
+यज्ञ and यज्ञ have exact match
+दिग्विजय सिंह  and दिग्विजय सिंह  have exact match
+सिंह and सिंह have exact match
+बाबा and बाबा have exact match
+आश्रम and आश्रम have exact match
+बदले and बदले have exact match
+कार्रवाई and कार्रवाई have exact match
+भाजपा-कांग्रेस सरकारों  and भाजपा-कांग्रेस सरकारों  have exact match
+सरकारों and सरकारों have exact match
+बाबा and बाबा have exact match
+राज्यमंत्री and राज्यमंत्री have exact match
+दर्जा and दर्जा have exact match
+नर्मदा नदी  and नर्मदा नदी  have exact match
+नदी and नदी have exact match
+किनारे and किनारे have exact match
+पेड़ and पेड़ have exact match
+घोटाले and घोटाले have exact match
+मार्च 2018  and मार्च 2018  have exact match
+2018 and 2018 have exact match
+यात्रा and यात्रा have exact match
+घोषणा and घोषणा have exact match
+बाद and बाद have exact match
+शिवराज सरकार  and शिवराज सरकार  have exact match
+सरकार and सरकार have exact match
+पौधारोपण and पौधारोपण have exact match
+बढ़ावा and बढ़ावा have exact match
+कमेटी and कमेटी have exact match
+बनाई, and बनाई, have exact match
+कम्प्यूटर and कम्प्यूटर have exact match
+बाबा and बाबा have exact match
+राज्यमंत्री and राज्यमंत्री have exact match
+दर्जा and दर्जा have exact match
+लेकिन, सरकार  and लेकिन, सरकार  have exact match
+सरकार and सरकार have exact match
+बाबा and बाबा have exact match
+खेमा and खेमा have exact match
+कांग्रेस and कांग्रेस have exact match
+पक्ष and पक्ष have exact match
+बाद and बाद have exact match
+कांग्रेस सरकार  and कांग्रेस सरकार  have exact match
+सरकार and सरकार have exact match
+नर्मदा विकास  and नर्मदा विकास  have exact match
+विकास and विकास have exact match
+समिति and समिति have exact match
+बाबा and बाबा have exact match
+राज्यमंत्री and राज्यमंत्री have exact match
+दर्जा and दर्जा have exact match
+
+------------RELAXED MATCHES FOUND-----------
+
+शिवराज सरकार  and सरकार have a match
+आश्रम तोड़ा, बाबा  and बाबा have a match
+आश्रम तोड़ा, बाबा  and तोड़ा, बाबा  have a match
+आश्रम तोड़ा, बाबा  and आश्रम have a match
+तोड़ा, बाबा  and बाबा have a match
+मध्य प्रदेश  and प्रदेश have a match
+नामदेव दास त्यागी  and दास त्यागी  have a match
+नामदेव दास त्यागी  and त्यागी have a match
+दास त्यागी  and त्यागी have a match
+बाबा) and बाबा have a match
+बाबा के गोम्मट गिरी  and बाबा have a match
+बाबा के गोम्मट गिरी  and गोम्मट गिरी  have a match
+बाबा के गोम्मट गिरी  and गिरी have a match
+गोम्मट गिरी  and गिरी have a match
+प्रिवेंटिव डिटेंशन  and डिटेंशन have a match
+मध्य प्रदेश  and प्रदेश have a match
+उपचुनाव and चुनाव have a match
+शिवराज सरकार  and सरकार have a match
+एयरपोर्ट रोड  and रोड have a match
+हप्सी गांव  and गांव have a match
+ADM अजयदेव शर्मा  and अजयदेव शर्मा  have a match
+ADM अजयदेव शर्मा  and शर्मा have a match
+अजयदेव शर्मा  and शर्मा have a match
+रविवार सुबह  and रविवार have a match
+रविवार सुबह  and सुबह have a match
+बाबा और  and बाबा have a match
+दिग्विजय सिंह  and सिंह have a match
+साध्वी प्रज्ञासिंह  and सिंह have a match
+साध्वी प्रज्ञासिंह  and प्रज्ञासिंह have a match
+प्रज्ञासिंह and सिंह have a match
+कांग्रेस प्रत्याशी  and कांग्रेस have a match
+प्रत्याशी दिग्विजय सिंह  and दिग्विजय सिंह  have a match
+प्रत्याशी दिग्विजय सिंह  and सिंह have a match
+प्रत्याशी दिग्विजय सिंह  and दिग्विजय सिंह  have a match
+प्रत्याशी दिग्विजय सिंह  and दिग्विजय सिंह  have a match
+दिग्विजय सिंह  and सिंह have a match
+दिग्विजय सिंह  and सिंह have a match
+भाजपा-कांग्रेस सरकारों  and सरकार have a match
+भाजपा-कांग्रेस सरकारों  and सरकारों have a match
+भाजपा-कांग्रेस सरकारों  and कांग्रेस have a match
+सरकारों and सरकार have a match
+नर्मदा नदी  and नदी have a match
+मार्च 2018  and 2018 have a match
+शिवराज सरकार  and सरकार have a match
+लेकिन, सरकार  and सरकार have a match
+कांग्रेस सरकार  and सरकार have a match
+कांग्रेस सरकार  and कांग्रेस have a match
+नर्मदा विकास  and विकास have a match
+
+------------PROPER HEAD-WORD MATCHES FOUND-----------
+
+बाबा matches with बाबा
+बाबा matches with आश्रम तोड़ा, बाबा 
+बाबा matches with तोड़ा, बाबा 
+आश्रम तोड़ा, बाबा  matches with तोड़ा, बाबा 
+मध्य प्रदेश  matches with प्रदेश
+नामदेव दास त्यागी  matches with दास त्यागी 
+नामदेव दास त्यागी  matches with त्यागी
+दास त्यागी  matches with त्यागी
+बाबा के गोम्मट गिरी  matches with गोम्मट गिरी 
+बाबा के गोम्मट गिरी  matches with गिरी
+गोम्मट गिरी  matches with गिरी
+प्रिवेंटिव डिटेंशन  matches with डिटेंशन
+ADM अजयदेव शर्मा  matches with अजयदेव शर्मा 
+ADM अजयदेव शर्मा  matches with शर्मा
+अजयदेव शर्मा  matches with शर्मा
+दिग्विजय सिंह  matches with सिंह
+दिग्विजय सिंह  matches with प्रत्याशी दिग्विजय सिंह 
+सिंह matches with प्रत्याशी दिग्विजय सिंह 
+साध्वी प्रज्ञासिंह  matches with प्रज्ञासिंह
+मार्च 2018  matches with 2018
+
+------------RELAXED HEAD-WORD MATCHES FOUND-----------
+
+शिवराज सरकार  matches with सरकार
+शिवराज सरकार  matches with लेकिन, सरकार 
+शिवराज सरकार  matches with कांग्रेस सरकार 
+सरकार matches with लेकिन, सरकार 
+सरकार matches with कांग्रेस सरकार 
+बाबा matches with बाबा
+बाबा matches with आश्रम तोड़ा, बाबा 
+बाबा matches with तोड़ा, बाबा 
+एयरपोर्ट रोड  matches with रोड
+हप्सी गांव  matches with गांव
+रविवार सुबह  matches with सुबह
+भाजपा-कांग्रेस सरकारों  matches with सरकारों
+नर्मदा नदी  matches with नदी
+लेकिन, सरकार  matches with कांग्रेस सरकार 
+नर्मदा विकास  matches with विकास
+
+------------PRONOUN MATCHES FOUND-----------
+
+Pronoun वही can refer to ['बाबा', 'कम्प्यूटर']
+Pronoun जिन्होंने can refer to ['कम्प्यूटर', 'बाबा']
+Pronoun इसमें refers to आरोप
+Pronoun ऐसे can refer to ['कब्जा', 'कागज']
+Pronoun उनके refers to पुलिस
+Pronoun इसलिए, refers to बाबा
+Pronoun उन्होंने refers to राजनीति
+Pronoun जिसके refers to दर्जा
+Pronoun इसमें can refer to ['कमेटी', 'सरकार', 'शिवराज सरकार ']
+Pronoun उन्हें can refer to ['शिवराज सरकार ', 'सरकार', 'कमेटी']
+Pronoun तो can refer to ['सरकार', 'लेकिन, सरकार ']
+Pronoun इसके can refer to ['बाबा', 'लेकिन, सरकार ', 'सरकार']
