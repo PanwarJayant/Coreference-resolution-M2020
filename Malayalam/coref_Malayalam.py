@@ -1,5 +1,5 @@
 # Initializations
-filepath = "./Data/text4.ssf"
+filepath = "./Data/text1.ssf"
 limit = 10
 
 
@@ -173,8 +173,8 @@ for i in cluster:
 # EXACT-MATCH STEP
 print("\n------------EXACT MATCHES FOUND-----------\n")
 
-for i in range(len(allmention)-1):
-    for j in range(i+1, len(allmention)):
+for i in range(len(allmention) - 1):
+    for j in range(i + 1, len(allmention)):
         if allmention[i] == allmention[j]:
             print(allmention[i], "and", allmention[j], "have exact match")
 
