@@ -173,11 +173,10 @@ for i in cluster:
 # EXACT-MATCH STEP
 print("\n------------EXACT MATCHES FOUND-----------\n")
 
-for i in allmention:
-    # tree = parser.parse(i.split())
-    # for node in tree:
-    if i in mention:
-        print(i, "and", i, "have exact match")
+for i in range(len(allmention)-1):
+    for j in range(i+1, len(allmention)):
+        if allmention[i] == allmention[j]:
+            print(allmention[i], "and", allmention[j], "have exact match")
 
 
 # RELAXED STRING MATCH STEP
