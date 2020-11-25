@@ -1,3 +1,8 @@
+# Initializations
+filepath = "./Data/text4.ssf"
+limit = 10
+
+
 def parseConvert(sentence):
     """
     Convert SSF to ISC parser format
@@ -15,6 +20,8 @@ def parseConvert(sentence):
                     if i.split("=")[0].lower() == "drel":
                         drel = i.split("=")[1].strip("'>").strip('">')
             else:
+                if line[1] == "NULL":
+                    continue
                 tree.append(
                     [count, line[1], line[1], line[2], line[2], "_", name, drel]
                 )
@@ -39,10 +46,11 @@ def parseConvert(sentence):
     return tree
 
 
-# Initializations
-filepath = "./Data/test1.ssf"
+# main
+print("┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┐")
+print("| Coreference Resolution Program |")
+print("└ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┘")
 data = open(filepath)
-
 sentenceCount = -1
 mention = []
 allmention = []
@@ -50,10 +58,6 @@ headwd = []
 pronCandidates = []
 pron = []
 pronRefers = []
-
-print("┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┐")
-print("| Coreference Resolution Program |")
-print("└ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┘")
 
 # MENTION-DETECTION STEP
 print("\n------------MENTIONS FOUND-----------\n")
@@ -68,6 +72,8 @@ for line in data:
         continue
     tree = parseConvert(sentence)
     sentenceCount = sentenceCount + 1
+    if sentenceCount == (limit + 1):
+        break
     for node in tree:
         newmention = ""
         if (node[4] == "N_NN" or node[4] == "N_NNP" or node[4] == "N_NST") and (
